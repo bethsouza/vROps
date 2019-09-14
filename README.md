@@ -1,23 +1,20 @@
 # vROps
+
 Resources References about vRealize Operations Manager from community
 
-O vRealize Operations Manager (vRops) é a solução de gerenciamento dos ambientes virtual e físico e de nuvem. Com ela é possível ter a visibilidade de toda a infraestrutura, o que possibilita o monitoramento e a otimização da utilização dos recursos de TI, além de facilitar o diagnóstico de problemas que podem causar degradação das aplicações.
+VRealize Operations Manager (vROps) is the management solution for cloud and virtual and physical environments. With it you can have visibility of the entire infrastructure, which enables monitoring and optimization of the use of IT resources, as well as facilitating the diagnosis of problems that may cause application degradation.
 
-O vRops está disponível nas seguintes versões:
+VRops is available in the following versions:
 
-vRealize Operations Manager Standard
-O foco desta versão é o vSphere e seus componentes no ambiente. Esta edição inclui dashboards e relatórios prontos, simulação de cenários e correção de problemas. Ela também permite que um usuário defina políticas e crie alertas com recomendações personalizadas para correção. 
+vRealize Operations Manager Standard The focus of this release is vSphere and its components in the environment. This edition includes dashboards and ready reports, scenario simulation and problem correction. It also allows a user to set policies and create alerts with personalized recommendations for remediation.
 
-vRealize Operations Manager Advanced
-Esta versão faz uma análise mais detalhada do ambiente vSphere e adiciona muitos recursos voltados para personalização. Podem ser criados dashboards e relatórios e também é possível importar pacotes de gerenciamento de outros fabricantes. Esses pacotes permitem que o vRops monitore um storage, switches, serviços de rede. Além disso, é possível usar também os agentes do Endpoint Operations, que possibilitam o monitoramento de recursos do sistema operacional das máquinas virtuais e físicas. 
+vRealize Operations Manager Advanced This release takes a closer look at the vSphere environment and adds many customization features. Dashboards and reports can be created and it is also possible to import management packs from other manufacturers. These packages allow vRops to monitor storage, switches, network services. In addition, you can also use Endpoint Operations agents, which enable you to monitor operating system resources for virtual and physical machines.
 
-vRealize Operations Manager Enterprise
-Nesta versão o agente do Endpoint Operations consegue monitorar os serviços instalados no sistema operacional, como por exemplo, o Active Directory, SQL Server, IIS, Apache, DNS e muito mais. 
-
+vRealize Operations Manager Enterprise In this release, the Endpoint Operations agent can monitor services installed on the operating system, such as Active Directory, SQL Server, IIS, Apache, DNS, and more.
 
 Product Page https://www.vmware.com/products/vrealize-operations.html
 
-Link para Download para avaliação https://my.vmware.com/en/web/vmware/evalcenter?p=vrops-eval
+Link to download and try https://my.vmware.com/en/web/vmware/evalcenter?p=vrops-eval
 
 Twitter https://twitter.com/vRealizeOps
 
@@ -34,24 +31,26 @@ Free Learning
 https://vmwarelearningzone.vmware.com
 
 
-Labs no HOL
+
+Labs no HOL (hol.vmware.com)
+
 HOL-1901-01-CMP - What's New in vRealize Operations Manager and vRealize Log Insight
 
 HOL-1901-02-CMP - Optimize Infrastructure Performance with vRealize Operations Manager
 
 HOL-1901-03-CMP - Optimize vSphere Capacity and Cost Savings with vRealize Operations Manager
 
-Grupo na Comunidade VMTN
+VMware Technology Network 
 https://communities.vmware.com/community/vmtn/vrealize/vrops
 
-Blog oficial
+Official Blog
 https://blogs.vmware.com/management/
 
-Docs (Crie sua biblioteca de documentos)
+Docs (Create you own reference library)
 https://docs.vmware.com
 https://github.com/search?q=vrops
 
-Blogs da Comunidade
+Community Blogs
 
 http://www.eucbrasil.com/
 https://blogs.vmware.com/management/author/luciano_gomes
@@ -59,7 +58,6 @@ http://imallvirtual.com/vcops-resources/
 http://vxpresss.blogspot.com/
 http://virtual-red-dot.info/iwan-rahabok/
 https://www.thomgreene.com
-
 Certification Path 
 https://vmwarelearningzone.vmware.com
 
