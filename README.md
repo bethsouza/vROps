@@ -1,8 +1,21 @@
+Sumário
+Introdução ao vROps	2
+Versions	2
+vRealize Operations Manager Standard	2
+
+
+
+
+
 # vROps
 
 Resources References about vRealize Operations Manager from community
 
+Introdução ao vROps
+
 VRealize Operations Manager (vROps) is the management solution for cloud and virtual and physical environments. With it you can have visibility of the entire infrastructure, which enables monitoring and optimization of the use of IT resources, as well as facilitating the diagnosis of problems that may cause application degradation.
+
+Versions
 
 VRops is available in the following versions:
 
