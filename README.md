@@ -2,6 +2,8 @@ Sumário
 Introdução ao vROps	2
 Versions	2
 vRealize Operations Manager Standard	2
+vRealize Operations Manager Advanced	2
+vRealize Operations Manager Enterprise	2
 
 
 
