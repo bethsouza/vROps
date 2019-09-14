@@ -3,7 +3,6 @@
 
 Resources References about vRealize Operations Manager from community
 
-Introdução ao vROps
 
 VRealize Operations Manager (vROps) is the management solution for cloud and virtual and physical environments. With it you can have visibility of the entire infrastructure, which enables monitoring and optimization of the use of IT resources, as well as facilitating the diagnosis of problems that may cause application degradation.
 
