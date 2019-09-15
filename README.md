@@ -39,15 +39,25 @@ https://docs.vmware.com/en/vRealize-Operations-Manager/index.html
 Blogs
 
 Blog VMware https://blogs.vmware.com/management/
+
 Samuel Nunes http://www.eucbrasil.com/ 
+
 Lior Kamrat http://imallvirtual.com/vcops-resources/
+
 Sunny Dua http://vxpresss.blogspot.com/
+
 Iwan Rahabok http://virtual-red-dot.info/iwan-rahabok/
+
 Thom Greene https://www.thomgreene.com
+
 John Dias http://www.storagegumbo.com/
+
 Lan Nguyen http://www.vmignite.com
+
 Eran Maor https://vrealizeandbeyond.com/category/vrops/
+
 Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/
+
 Sajal Debnath  https://sajaldebnath.com
 
 Certification
@@ -55,16 +65,21 @@ Certification
 https://www.vmware.com/education-services/certification/vrealize-operations-2017-specialist.html
 
 Dashboard Samples 
+
 https://code.vmware.com/samples
 
 Management Packs
+
 http://Solutionexchange.vmware.com
 
 Youtube Channels
 
 VMware Cloud Management https://www.youtube.com/channel/UCKON30YeSGIeqsueMYgEa9A
+
 Virtualization24x7  https://www.youtube.com/channel/UCcrKN4gu9ZwXUlHD5Ly8BgA
+
 VMware Tech Pubs https://www.youtube.com/watch?v=DS_dCH3cq7I&list=PLmp0id7yKiEclPbge6XMVZnQtndtiuMlB
+
 VMSpot https://www.youtube.com/channel/UCcV8KDm4lqXgZPbaNFqu_PQ
 
 Books and eBooks
@@ -74,21 +89,38 @@ Mastering vRealize Operations Manager - Scott Norris e Christopher Slater
 https://www.actualtechmedia.com/gorilla-guide-vrealize-operations/
 
 Twitter List
+
 @virtualg_uk
+
 @PriscillaRega
+
 @vmwarecloudmgmt
+
 @vRealizeOperations
+
 @Samuel_SPI 
+
 @lucgovmw
+
 @vMusketeers
+
 @johnddias 
+
 @tbgree00
+
 @stevetilkens
+
 @MichaelRyom
+
 @e1_ang
+
 @Sunny_Dua
+
 @VMSpot
+
 @LanVMware 
+
 @DavidMDavis
+
 @sajal_debnath
 
