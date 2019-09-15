@@ -20,20 +20,20 @@ Link to download and try https://my.vmware.com/en/web/vmware/evalcenter?p=vrops-
 
 Twitter https://twitter.com/vRealizeOps
 
-Product Datasheet
+**Product Datasheet**
 https://www.vmware.com/content/dam/digitalmarketing/vmware/pt/pdf/products/vCenter/vmware-vrealize-operations-datasheet.pdf
 
-Product Walktour:
+**Product Walktour**
 https://vrealize.vmware.com/
 https://vrealize.vmware.com/t/vrealize-suite-standard-2/
 https://vrealize.vmware.com/t/vrealize-suite-standard-2/vrealize-operations-guided-tour/
 
-Free Learning
+**Free Learning**
 
 https://vmwarelearningzone.vmware.com
 
 
-Practical Labs https://hol.vmware.com
+**Practical Labs** https://hol.vmware.com
 
 HOL-1901-01-CMP - What's New in vRealize Operations Manager and vRealize Log Insight
 
@@ -41,17 +41,17 @@ HOL-1901-02-CMP - Optimize Infrastructure Performance with vRealize Operations M
 
 HOL-1901-03-CMP - Optimize vSphere Capacity and Cost Savings with vRealize Operations Manager
 
-VMware Technology Network 
+**VMware Technology Network**
 https://communities.vmware.com/community/vmtn/vrealize/vrops
 
-Official Blog
+**Official Blog**
 https://blogs.vmware.com/management/
 
-Docs (Create you own reference library)
+**Docs** (Create you own reference library)
 https://docs.vmware.com
 https://github.com/search?q=vrops
 
-Community Blogs
+**Community Blogs**
 
 http://www.eucbrasil.com/
 https://blogs.vmware.com/management/author/luciano_gomes
@@ -62,9 +62,9 @@ https://www.thomgreene.com
 Certification Path 
 https://vmwarelearningzone.vmware.com
 
-Dashboard Samples
+**Dashboard Samples**
 https://code.vmware.com/samples
 
-Management Packs
+**Management Packs**
 http://Solutionexchange.vmware.com
 
