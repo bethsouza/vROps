@@ -14,6 +14,7 @@ Product Datasheet
 https://www.vmware.com/content/dam/digitalmarketing/vmware/pt/pdf/products/vCenter/vmware-vrealize-operations-datasheet.pdf
 
 About Metrics
+
 Version 7.0 https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/vrealize-operations-manager-70-reference-guide.pdf
 
 Version 7.5 https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/vrealize-operations-manager-75-reference-guide.pdf
@@ -36,8 +37,8 @@ Documents
 https://docs.vmware.com/en/vRealize-Operations-Manager/index.html
 
 Blogs
-Blog VMware https://blogs.vmware.com/management/
 
+Blog VMware https://blogs.vmware.com/management/
 Samuel Nunes http://www.eucbrasil.com/ 
 Lior Kamrat http://imallvirtual.com/vcops-resources/
 Sunny Dua http://vxpresss.blogspot.com/
@@ -50,6 +51,7 @@ Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/
 Sajal Debnath  https://sajaldebnath.com
 
 Certification
+
 https://www.vmware.com/education-services/certification/vrealize-operations-2017-specialist.html
 
 Dashboard Samples 
@@ -76,10 +78,10 @@ Twitter List
 @PriscillaRega
 @vmwarecloudmgmt
 @vRealizeOperations
-@Samuel_SPI 
+@Samuel_SPIÂ 
 @lucgovmw
 @vMusketeers
-@johnddias 
+@johnddiasÂ 
 @tbgree00
 @stevetilkens
 @MichaelRyom
