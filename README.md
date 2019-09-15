@@ -8,6 +8,8 @@ https://www.vmware.com/products/vrealize-operations.html (English)
 **VROps versions and Release Notes**
 https://www.vmware.com/products/vrealize-operations.html
 
+https://blogs.vmware.com/management/2019/08/whats-new-in-vrealize-operations-8-0.html
+
 **Brazilian Telegram group**  t.me/vRops
 
 **Product Datasheet**
@@ -19,9 +21,11 @@ https://www.vmware.com/content/dam/digitalmarketing/vmware/pt/pdf/products/vCent
 
 **Version 7.5** https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/vrealize-operations-manager-75-reference-guide.pdf
 
+
 **Product Walktour**
 
 https://vrealize.vmware.com/t/vrealize-suite-standard-2/vrealize-operations-guided-tour/
+
 
 **Learning Zone and Practical Labs**
 
@@ -29,13 +33,16 @@ https://vmwarelearningzone.vmware.com
 
 https://labs.hol.vmware.com/HOL/catalogs/catalog/873
 
+
 **VMware Technical Network (VMTN)**
 
 https://communities.vmware.com/community/vmtn/vrealize/vrops
 
+
 **Documents**
 
 https://docs.vmware.com/en/vRealize-Operations-Manager/index.html
+
 
 **Blogs**
 
@@ -61,17 +68,21 @@ Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/
 
 Sajal Debnath  https://sajaldebnath.com
 
+
 **Certification**
 
 https://www.vmware.com/education-services/certification/vrealize-operations-2017-specialist.html
+
 
 **Dashboard Samples**
 
 https://code.vmware.com/samples
 
+
 **Management Packs**
 
 http://Solutionexchange.vmware.com
+
 
 **Youtube Channels**
 
@@ -83,17 +94,20 @@ VMware Tech Pubs https://www.youtube.com/watch?v=DS_dCH3cq7I&list=PLmp0id7yKiEcl
 
 VMSpot https://www.youtube.com/channel/UCcV8KDm4lqXgZPbaNFqu_PQ
 
+
 **Books and eBooks**
 
 VMware vRealize Operations Performance and Capacity Management - Iwan 'e1' Rahabok
 Mastering vRealize Operations Manager - Scott Norris e Christopher Slater 
 https://www.actualtechmedia.com/gorilla-guide-vrealize-operations/
 
+
 **Twitter List**
 
-@virtualg_uk
 
-@PriscillaRega
+Graham Barker [@virtualg_uk](https://twitter.com/virtualg_uk)
+
+Priscilla Rega [@PriscillaRega](https://twitter.com/PriscillaRega)
 
 @vmwarecloudmgmt
 
