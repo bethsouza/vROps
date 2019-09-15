@@ -1,6 +1,6 @@
 ## A List of vROps Resources from Community 
 
-
+![Image of vROps](https://bethsouza.github.com/images/vrops.jpg)
 
 **Product Information**
 https://www.vmware.com/products/vrealize-operations.html (English)
