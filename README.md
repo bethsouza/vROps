@@ -1,6 +1,6 @@
 ## A List of vROps Resources from Community 
 
-                                  ![Image of vROps](https://github.com/bethsouza/vROps/blob/master/vRops.jpg)
+![Image of vROps](https://github.com/bethsouza/vROps/blob/master/vRops.jpg)
 
 
 **Product Information**
