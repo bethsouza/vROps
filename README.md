@@ -33,8 +33,7 @@ Free Learning
 https://vmwarelearningzone.vmware.com
 
 
-
-Labs no HOL (hol.vmware.com)
+Practical Labs https://hol.vmware.com
 
 HOL-1901-01-CMP - What's New in vRealize Operations Manager and vRealize Log Insight
 
