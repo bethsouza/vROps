@@ -93,9 +93,9 @@ Samuel Nunes [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
 Luciano Gomes [@lucgovmw](https://twitter.com/lucgovmw)<br/>
 vMusketeers [@vMusketeers](https://twitter.com/vMusketeers)<br/>
 John Dias [@johnddias](https://twitter.com/johnddias)<br/>
-@tbgree00 [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
-@stevetilkens [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
-@MichaelRyom [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
+Thom Greene [@tbgree00](https://twitter.com/tbgree00)<br/>
+Steve Tilkens [@stevetilkens](https://twitter.com/stevetilkens)<br/>
+Michael Ryom [@MichaelRyom](https://twitter.com/MichaelRyom)<br/>
 @e1_ang [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
 @Sunny_Dua [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
 @VMSpot [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
