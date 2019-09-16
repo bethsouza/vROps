@@ -103,6 +103,7 @@ David Davis [@DavidMDavis](https://twitter.com/DavidMDavis)<br/>
 Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
 
 **Some VMworld 2019 Sessions Videos**
+
 | Session       | Name         						                                      			      | Stream		  			                                            			   | Download	                                        			                       | 
 | ------------- | ------------------------------------------------------------------------  | -----------------------------------------------------------------------| ----------------------------------------------------------------------------- |
 | HBO1180BU	    |The Big Ticket: What’s New in vRealize Operations	    		            	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/28395)	   | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1180BU.pdf)|
