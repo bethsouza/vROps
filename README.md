@@ -110,6 +110,10 @@ https://videos.vmworld.com/global/2019/videoplayer/28395<br/>
 https://videos.vmworld.com/global/2019/videoplayer/27682Game<br/>
 [Monitor All the Things: Application Monitoring with vRealize Operations BCA1181BU]
 https://videos.vmworld.com/global/2019/videoplayer/28015<br/>
+[Best Practices for vRealize Operations Workload Optimization HBO1094BU]
+https://videos.vmworld.com/global/2019/videoplayer/27374<br/>
+[It's Not 2005 Anymore: Stop Using Excel for Capacity Management HBO1136B]
+https://videos.vmworld.com/global/2019/videoplayer/27875<br/>
 
 
 
