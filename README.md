@@ -2,7 +2,7 @@
 <p align="center"><b>A List of vROps Resources from Community</b>
    
 <p align="center">
-   <img src="https://github.com/bethsouza/vROps/blob/master/vRopss.JPG">
+   <img src="https://github.com/bethsouza/vROps/blob/master/vropss.JPG">
 </p>
 
 
