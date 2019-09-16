@@ -7,7 +7,11 @@
 
 
 **Product Information**
+
 https://www.vmware.com/products/vrealize-operations.html (English)
+
+https://www.vmware.com/br/products/vrealize-operations.html (Portuguese)
+
 
 **Download and try** https://my.vmware.com/en/web/vmware/evalcenter?p=vrops-eval
 
