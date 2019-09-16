@@ -86,7 +86,6 @@ https://www.actualtechmedia.com/gorilla-guide-vrealize-operations/
 
 **Twitter List**
 
-
 Graham Barker [@virtualg_uk](https://twitter.com/virtualg_uk)<br/>
 Priscilla Rega [@PriscillaRega](https://twitter.com/PriscillaRega)<br/>
 Samuel Nunes [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
@@ -102,4 +101,15 @@ Matt Bradford [@VMSpot ](https://twitter.com/VMSpot)<br/>
 Lan Nguyen [@LanVMware](https://twitter.com/LanVMware)<br/>
 David Davis [@DavidMDavis](https://twitter.com/DavidMDavis)<br/>
 Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
+
+**Some VMworld 2019 Sessions Videos**
+
+[Game of Clouds E3: The Magic and the Reality of Self Driving Operations (HBO3090BU]
+https://videos.vmworld.com/global/2019/videoplayer/27682Game<br/>
+[Monitor All the Things: Application Monitoring with vRealize Operations (BCA1181BU]
+https://videos.vmworld.com/global/2019/videoplayer/28015<br/>
+
+
+
+
 
