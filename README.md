@@ -8,86 +8,48 @@
 
 **Product Information**
 
-https://www.vmware.com/products/vrealize-operations.html (English)
-
-https://www.vmware.com/br/products/vrealize-operations.html (Portuguese)
-
+https://www.vmware.com/products/vrealize-operations.html (English) <br/>
+https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/>
 
 **Download and try** https://my.vmware.com/en/web/vmware/evalcenter?p=vrops-eval
 
-**VROps versions and Release Notes**
-[vROps versions](https://www.vmware.com/products/vrealize-operations.html)
+**VROps versions and Release Notes** <br/> <br/>
+[vROps versions](https://www.vmware.com/products/vrealize-operations.html) (English) <br/>
+[vROps versions](https://www.vmware.com/br/products/vrealize-operations.html#compare) (Portuguese) <br/>
+[vROps Release Notes 6.7](https://docs.vmware.com/en/vRealize-Operations-Manager/6.7/rn/vRealize-Operations-Manager-67.html) <br/>
+[vROps Release Notes 7.0](https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/rn/vRealize-Operations-Manager-70.html) <br/>
+[vROps Release Notes 7.5](https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/rn/vRealize-Operations-Manager-75.html) <br/>
+**Coming Soon🎉 ** <br/>
+https://blogs.vmware.com/management/2019/08/whats-new-in-vrealize-operations-8-0.html <br/> <br/>
+**Brazilian Telegram group**  t.me/vRops <br/> <br/>
+**Product Datasheet** <br/>
+https://www.vmware.com/content/dam/digitalmarketing/vmware/pt/pdf/products/vCenter/vmware-vrealize-operations-datasheet.pdf <br/> <br/>
+**About Metrics** <br/>
+**Version 7.0** https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/vrealize-operations-manager-70-reference-guide.pdf <br/>
+**Version 7.5** https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/vrealize-operations-manager-75-reference-guide.pdf <br/> <br/>
+**Product Walktour** <br/>
+https://vrealize.vmware.com/t/vrealize-suite-standard-2/vrealize-operations-guided-tour/ <br/> <br/>
+**Learning Zone and Practical Labs** <br/>
+https://vmwarelearningzone.vmware.com <br/>
+https://labs.hol.vmware.com/HOL/catalogs/catalog/873 <br/> <br/>
+**VMware Technical Network (VMTN)** <br/>
+https://communities.vmware.com/community/vmtn/vrealize/vrops <br/> <br/>
+**Documents** <br/>
+https://docs.vmware.com/en/vRealize-Operations-Manager/index.html <br/> <br/>
+**Blogs** <br/>
 
-[vROps Release Notes 6.7](https://docs.vmware.com/en/vRealize-Operations-Manager/6.7/rn/vRealize-Operations-Manager-67.html)
-
-[vROps Release Notes 7.0](https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/rn/vRealize-Operations-Manager-70.html)
-
-[vROps Release Notes 7.5](https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/rn/vRealize-Operations-Manager-75.html)
-
-**Coming Soon🎉 **
-
-https://blogs.vmware.com/management/2019/08/whats-new-in-vrealize-operations-8-0.html
-
-**Brazilian Telegram group**  t.me/vRops
-
-**Product Datasheet**
-https://www.vmware.com/content/dam/digitalmarketing/vmware/pt/pdf/products/vCenter/vmware-vrealize-operations-datasheet.pdf
-
-**About Metrics**
-
-**Version 7.0** https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/vrealize-operations-manager-70-reference-guide.pdf
-
-**Version 7.5** https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/vrealize-operations-manager-75-reference-guide.pdf
-
-
-**Product Walktour**
-
-https://vrealize.vmware.com/t/vrealize-suite-standard-2/vrealize-operations-guided-tour/
-
-
-**Learning Zone and Practical Labs**
-
-https://vmwarelearningzone.vmware.com
-
-https://labs.hol.vmware.com/HOL/catalogs/catalog/873
-
-
-**VMware Technical Network (VMTN)**
-
-https://communities.vmware.com/community/vmtn/vrealize/vrops
-
-
-**Documents**
-
-https://docs.vmware.com/en/vRealize-Operations-Manager/index.html
-
-
-**Blogs**
-
-Blog VMware https://blogs.vmware.com/management/
-
-Samuel Nunes http://www.eucbrasil.com/ 
-
-Lior Kamrat http://imallvirtual.com/vcops-resources/
-
-Sunny Dua http://vxpresss.blogspot.com/
-
-Iwan Rahabok http://virtual-red-dot.info/iwan-rahabok/
-
-Thom Greene https://www.thomgreene.com
-
-John Dias http://www.storagegumbo.com/
-
-Lan Nguyen http://www.vmignite.com
-
-Eran Maor https://vrealizeandbeyond.com/category/vrops/
-
-Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/
-
-Sajal Debnath  https://sajaldebnath.com
-
-Steve Tilkens http://www.tilkens.com/
-
+Blog VMware https://blogs.vmware.com/management/ <br/>
+Samuel Nunes http://www.eucbrasil.com/ <br/>
+Lior Kamrat http://imallvirtual.com/vcops-resources/ <br/>
+Sunny Dua http://vxpresss.blogspot.com/ <br/>
+Iwan Rahabok http://virtual-red-dot.info/iwan-rahabok/ <br/>
+Thom Greene https://www.thomgreene.com <br/>
+John Dias http://www.storagegumbo.com/ <br/>
+Lan Nguyen http://www.vmignite.com <br/>
+Eran Maor https://vrealizeandbeyond.com/category/vrops/ <br/>
+Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/ <br/>
+Sajal Debnath  https://sajaldebnath.com <br/>
+Steve Tilkens http://www.tilkens.com/ <br/>
 
 **Certification**
 
