@@ -87,37 +87,19 @@ https://www.actualtechmedia.com/gorilla-guide-vrealize-operations/
 **Twitter List**
 
 
-Graham Barker [@virtualg_uk](https://twitter.com/virtualg_uk)
-
-Priscilla Rega [@PriscillaRega](https://twitter.com/PriscillaRega)
-
-@vmwarecloudmgmt
-
-@vRealizeOperations
-
-@Samuel_SPI 
-
+Graham Barker [@virtualg_uk](https://twitter.com/virtualg_uk)<br/>
+Priscilla Rega [@PriscillaRega](https://twitter.com/PriscillaRega)<br/>
+Samuel Nunes [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
 @lucgovmw
-
 @vMusketeers
-
 @johnddias 
-
 @tbgree00
-
 @stevetilkens
-
 @MichaelRyom
-
 @e1_ang
-
 @Sunny_Dua
-
 @VMSpot
-
 @LanVMware 
-
 @DavidMDavis
-
 @sajal_debnath
 
