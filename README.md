@@ -105,33 +105,33 @@ Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
 **Some VMworld 2019 Sessions Videos**
 
 [The Big Ticket: What’s New in vRealize Operations HBO1180BU]
-https://videos.vmworld.com/global/2019/videoplayer/28395<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/28395)<br/>
 [Game of Clouds E3: The Magic and the Reality of Self Driving Operations HBO3090BU]
-https://videos.vmworld.com/global/2019/videoplayer/27682Game<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/27682Game)<br/>
 [Monitor All the Things: Application Monitoring with vRealize Operations BCA1181BU]
-https://videos.vmworld.com/global/2019/videoplayer/28015<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/28015)<br/>
 [Best Practices for vRealize Operations Workload Optimization HBO1094BU]
-https://videos.vmworld.com/global/2019/videoplayer/27374<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/27374)<br/>
 [It's Not 2005 Anymore: Stop Using Excel for Capacity Management HBO1136B]
-https://videos.vmworld.com/global/2019/videoplayer/27875<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/27875)<br/>
 [Current and Future of vSAN Operations with vRealize Operations HCI1210BU]
-https://videos.vmworld.com/global/2019/videoplayer/27532<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/27532)<br/>
 [Optimize vSAN performance using vRealize Operations and Reinforcement Learning HCI1650BU]
-https://videos.vmworld.com/global/2019/videoplayer/28142<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/28142)<br/>
 [Multisite vCloud Director Architecture: Best Practices and Success Stories HBI3051BU]
-https://videos.vmworld.com/global/2019/videoplayer/28031<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/28031)<br/>
 [Introducing vRealize Operations as a Service HBO1183BU]
-https://videos.vmworld.com/global/2019/videoplayer/27853<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/27853)<br/>
 [NSX-T Operations and Troubleshooting CNET3048BU]
-https://videos.vmworld.com/global/2019/videoplayer/28122<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/28122)<br/>
 [Skyline Customer Panel: Real-World Tips to Avoid Problems Before They Occur HBI2028PU]
-https://videos.vmworld.com/global/2019/videoplayer/28332<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/28332)<br/>
 [Skyline Proactive Support for the Software-Defined Data Center HBI1865BU]
-https://videos.vmworld.com/global/2019/videoplayer/28333<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/28333)<br/>
 [SQL Server Workloads on VMware vSphere: Configuration Recommendations BCA1542BU]
-https://videos.vmworld.com/global/2019/videoplayer/28339<br/>
+(https://videos.vmworld.com/global/2019/videoplayer/28339)<br/>
 [You Get a Cloud and You Get a Cloud: Monitoring with vRealize Operations HBO1139BU]
-https://videos.vmworld.com/global/2019/videoplayer/29002
+(https://videos.vmworld.com/global/2019/videoplayer/29002)
 
 
 
