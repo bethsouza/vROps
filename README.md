@@ -120,8 +120,7 @@ Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
 (https://videos.vmworld.com/global/2019/videoplayer/28142)<br/>
 [Multisite vCloud Director Architecture: Best Practices and Success Stories HBI3051BU]
 (https://videos.vmworld.com/global/2019/videoplayer/28031)<br/>
-[Introducing vRealize Operations as a Service HBO1183BU]
-(https://videos.vmworld.com/global/2019/videoplayer/27853)<br/>
+[Introducing vRealize Operations as a Service HBO1183BU](https://videos.vmworld.com/global/2019/videoplayer/27853)<br/>
 [NSX-T Operations and Troubleshooting CNET3048BU]
 (https://videos.vmworld.com/global/2019/videoplayer/28122)<br/>
 [Skyline Customer Panel: Real-World Tips to Avoid Problems Before They Occur HBI2028PU]
