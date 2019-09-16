@@ -12,7 +12,15 @@ https://www.vmware.com/products/vrealize-operations.html (English)
 **Download and try** https://my.vmware.com/en/web/vmware/evalcenter?p=vrops-eval
 
 **VROps versions and Release Notes**
-https://www.vmware.com/products/vrealize-operations.html
+[vROps versions](https://www.vmware.com/products/vrealize-operations.html)
+
+[vROps Release Notes 6.7](https://docs.vmware.com/en/vRealize-Operations-Manager/6.7/rn/vRealize-Operations-Manager-67.html)
+
+[vROps Release Notes 7.0](https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/rn/vRealize-Operations-Manager-70.html)
+
+[vROps Release Notes 7.5](https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/rn/vRealize-Operations-Manager-75.html)
+
+**Coming Soon🎉 **
 
 https://blogs.vmware.com/management/2019/08/whats-new-in-vrealize-operations-8-0.html
 
