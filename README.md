@@ -96,10 +96,10 @@ John Dias [@johnddias](https://twitter.com/johnddias)<br/>
 Thom Greene [@tbgree00](https://twitter.com/tbgree00)<br/>
 Steve Tilkens [@stevetilkens](https://twitter.com/stevetilkens)<br/>
 Michael Ryom [@MichaelRyom](https://twitter.com/MichaelRyom)<br/>
-@e1_ang [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
-@Sunny_Dua [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
-@VMSpot [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
-@LanVMware [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
-@DavidMDavis [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
-@sajal_debnath [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
+Iwan 'e1' rahabok [@e1_ang](https://twitter.com/e1_ang)<br/>
+Sunny Dua [@Sunny_Dua](https://twitter.com/Sunny_Dua)<br/>
+Matt Bradford [@VMSpot ](https://twitter.com/VMSpot)<br/>
+Lan Nguyen [@LanVMware](https://twitter.com/LanVMware)<br/>
+David Davis [@DavidMDavis](https://twitter.com/DavidMDavis)<br/>
+Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
 
