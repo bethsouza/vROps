@@ -104,6 +104,8 @@ Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
 
 **Some VMworld 2019 Sessions Videos**
 
+[The Big Ticket: What’s New in vRealize Operations (HBO1180BU]<br/>
+https://videos.vmworld.com/global/2019/videoplayer/28395
 [Game of Clouds E3: The Magic and the Reality of Self Driving Operations (HBO3090BU]
 https://videos.vmworld.com/global/2019/videoplayer/27682Game<br/>
 [Monitor All the Things: Application Monitoring with vRealize Operations (BCA1181BU]
