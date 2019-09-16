@@ -86,6 +86,8 @@ Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/
 
 Sajal Debnath  https://sajaldebnath.com
 
+Steve Tilkens http://www.tilkens.com/
+
 
 **Certification**
 
