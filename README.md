@@ -103,5 +103,13 @@ David Davis [@DavidMDavis](https://twitter.com/DavidMDavis)<br/>
 Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
 
 **Some VMworld 2019 Sessions Videos**
+| Session       | Name         						                                      			      | Stream		  			                                            			   | Download	                                        			                       | 
+| ------------- | ------------------------------------------------------------------------  | -----------------------------------------------------------------------| ----------------------------------------------------------------------------- |
+| HBO1180BU	    |The Big Ticket: What’s New in vRealize Operations	    		            	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/28395)	   | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1180BU.pdf)|
+| HBO3090BU	    |Game of Clouds E3: The Magic and the Reality of Self Driving Operations	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/27682Game) | No PDF Available								    |
+| BCA1181BU	    |Monitor All the Things: Application Monitoring with vRealize Operations	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/28015)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/BCA1181BU.pdf)|
+| HBO1094BU   	|Best Practices for vRealize Operations Workload Optimization		        	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/27374)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1094BU.pdf)|
+| HBO1136BU   	|It's Not 2005 Anymore: Stop Using Excel for Capacity Management	      	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/27875))    | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1136BU.pdf)|
+
 
 
