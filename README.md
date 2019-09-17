@@ -7,7 +7,7 @@
 
 **Before begin...**<br/>
 Welcome! This is my first experience with this type of project. Therefore, I count on your contribution, making this repository useful for the community. If there is any mistake regarding the information, please feel free to submit corrections or new contributions.
-Here's how to contribute (https://github.com/bethsouza/vROps/edit/master/contribute.md)
+Here's how to contribute (https://github.com/bethsouza/vROps/#contribute.md)
 
 **Product Information**
 
