@@ -101,6 +101,8 @@ Lan Nguyen [@LanVMware](https://twitter.com/LanVMware)<br/>
 David Davis [@DavidMDavis](https://twitter.com/DavidMDavis)<br/>
 Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
 
+**vExpert Cloud Management Directory 2019** https://vexpert.vmware.com/directory/cloudmgmt
+
 **Some VMworld 2019 Sessions Videos**
 
 | Session       | Name         						                                      			      | Stream		  			                                            			   | Download	                                        			                       | 
@@ -120,13 +122,13 @@ Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
 
 Your contribution is very important to keep this repository active and up to date. Every contribution will be most welcome.
 Use GitHub issues to propose changes to this repository.
-The community thanks you for your contribution.
+The community thanks you for your contribution.<br/>
 
 **How to contribute**
 
 Through Pull Requests (PR) you can contribute. But first, use the Github issue to discuss proposed changes.
 
-Thank you to help and share this project with the community!
+Thank you to help and share this project with the community!<br/>
 
 **Thanks for help**<br/>
 I'd like to say thanks to all that helped to keep this repository.
