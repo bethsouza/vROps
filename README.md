@@ -128,8 +128,7 @@ The community thanks you for your contribution.<br/>
 
 Through Pull Requests (PR) you can contribute. But first, use the Github issue to discuss proposed changes.
 
-Thank you to help and share this project with the community!<br/>
-
+Thank you to help and share this project with the community!<br/><br/>
 **Thanks for help**<br/>
 I'd like to say thanks to all that helped to keep this repository.
 Special thanks for encourage to start this project.
