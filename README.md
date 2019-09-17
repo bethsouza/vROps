@@ -7,7 +7,7 @@
 
 **Before begin...**<br/>
 Welcome! This is my first experience with this type of project. Therefore, I count on your contribution, making this repository useful for the community. If there is any mistake regarding the information, please feel free to submit corrections or new contributions.
-[Here's how to contribute](https://github.com/bethsouza/vROps/blob/master/contribute.md)
+[Here's how to contribute](https://github.com/bethsouza/vROps/blob/master/contribute.md){:target="_blank"}
 
 **Product Information**
 
@@ -129,8 +129,8 @@ Through Pull Requests (PR) you can contribute. But first, use the Github issue t
 Thank you to help and share this project with the community!
 
 **Thanks for help**<br/>
-I'd like to say thanks to all that help to keep this repository.
-Special thanks to encourage to start this project.
+I'd like to say thanks to all that helped to keep this repository.
+Special thanks for encourage to start this project.
 
 [Valdecir Carvalho](https://twitter.com/homelaber)<br/>
 [Luciano Gomes](https://twitter.com/lucgovmw)<br/>
