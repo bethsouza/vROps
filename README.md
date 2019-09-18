@@ -114,8 +114,9 @@ Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
 | HBO1139BU	|You Get a Cloud and You Get a Cloud: Monitoring with vRealize Operations	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/29002)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1139BU.pdf) |
 
 **More Contributions**<br/>
-3 High-Value Reasons to use vRealize Operations Manager ww.altaro.com/vmware/vrealize-operations-manager/<br/
-Ciclo de alertas no vROPs http://www.itby3.com.br/category/vrops/
+3 High-Value Reasons to use vRealize Operations Manager www.altaro.com/vmware/vrealize-operations-manager/<br/>
+Ciclo de alertas no vROPs http://www.itby3.com.br/category/vrops/<br/>
+Which metric to use for monitoring memory? http://www.yellow-bricks.com/2011/04/29/which-metric-to-use-for-monitoring-memory/<br/>
 
 **How to collaborate**
 
