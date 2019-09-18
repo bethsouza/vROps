@@ -53,7 +53,7 @@ Sajal Debnath  https://sajaldebnath.com <br/>
 Steve Tilkens http://www.tilkens.com/ <br/>
 
 **Dashboard and Super Metrics Samples**<br/>
-https://code.vmware.com/samples<br/>
+vrealize.vmware.com/sample-exchange<br/>
 
 **Management Packs**<br/>
 http://Solutionexchange.vmware.com<br/>
