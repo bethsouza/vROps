@@ -51,6 +51,7 @@ Eran Maor https://vrealizeandbeyond.com/category/vrops/ <br/>
 Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/ <br/>
 Sajal Debnath  https://sajaldebnath.com <br/>
 Steve Tilkens http://www.tilkens.com/ <br/>
+Matt Bradford http://www.vmspot.com<br/>
 
 **Dashboard and Super Metrics Samples**<br/>
 vrealize.vmware.com/sample-exchange<br/>
@@ -96,7 +97,9 @@ Matt Bradford [@VMSpot ](https://twitter.com/VMSpot)<br/>
 Lan Nguyen [@LanVMware](https://twitter.com/LanVMware)<br/>
 David Davis [@DavidMDavis](https://twitter.com/DavidMDavis)<br/>
 Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
-Vineeth A C [@Vineethac](https://twitter.com/Vineethac)
+Vineeth A C [@Vineethac](https://twitter.com/Vineethac)<br/>
+David overbeek [@davidoverbeek](https://twitter.com/davidoverbeek)<br/>
+Brandon Gordon [@ImNotoriousBDG](https://twitter.com/ImNotoriousBDG)<br/>
 
 **vExpert Cloud Management Directory 2019** https://vexpert.vmware.com/directory/cloudmgmt
 
@@ -113,6 +116,9 @@ Vineeth A C [@Vineethac](https://twitter.com/Vineethac)
 | HCI1650BU	|Optimize vSAN performance using vRealize Operations and Reinforcement Learning	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/28142)     | No PDF Available 								    |
 | HBO1183BU	|Introducing vRealize Operations as a Service					  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/27853)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1183BU.pdf) |
 | HBO1139BU	|You Get a Cloud and You Get a Cloud: Monitoring with vRealize Operations	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/29002)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1139BU.pdf) |
+| HCI1339BU	|vSAN Administration Optimized Through vRealize Operations and Log Insight	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/28794)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HCI1339BU.pdf) |
+
+ (HCI1339BU)
 
 **More Contributions**<br/>
 3 High-Value Reasons to use vRealize Operations Manager www.altaro.com/vmware/vrealize-operations-manager/<br/>
