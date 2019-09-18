@@ -34,12 +34,9 @@ https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/vrealize-operations-m
 https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/vrealize-operations-manager-75-reference-guide.pdf <br/> <br/>
 **Product Walktour** <br/>
 https://vrealize.vmware.com/t/vrealize-suite-standard-2/vrealize-operations-guided-tour/ <br/> <br/>
-**Learning Zone and Practical Labs** <br/>
-https://vmwarelearningzone.vmware.com <br/>
-https://labs.hol.vmware.com/HOL/catalogs/catalog/873 <br/> <br/>
 **VMware Technical Network (VMTN)** <br/>
 https://communities.vmware.com/community/vmtn/vrealize/vrops <br/> <br/>
-**Documents** <br/>
+**Documentation** <br/>
 https://docs.vmware.com/en/vRealize-Operations-Manager/index.html <br/> <br/>
 **Blogs** <br/>
 Blog VMware https://blogs.vmware.com/management/ <br/>
@@ -55,18 +52,13 @@ Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/ <br/>
 Sajal Debnath  https://sajaldebnath.com <br/>
 Steve Tilkens http://www.tilkens.com/ <br/>
 
-**Certification**
-
-https://www.vmware.com/education-services/certification/vrealize-operations-2017-specialist.html
-
-
-**Dashboard, Super Metrics Samples**
-
-https://code.vmware.com/samples
+**Dashboard, Super Metrics Samples**<br/>
+https://code.vmware.com/samples<br/>
 
 **Management Packs**
 
-http://Solutionexchange.vmware.com
+http://Solutionexchange.vmware.com<br/>
+https://bluemedora.com/products/vmware-vrealize-true-visibility/
 
 **Youtube Channels**
 
@@ -75,13 +67,22 @@ Virtualization24x7  https://www.youtube.com/channel/UCcrKN4gu9ZwXUlHD5Ly8BgA<br/
 VMware Tech Pubs https://www.youtube.com/watch?v=DS_dCH3cq7I&list=PLmp0id7yKiEclPbge6XMVZnQtndtiuMlB<br/>
 VMSpot https://www.youtube.com/channel/UCcV8KDm4lqXgZPbaNFqu_PQ
 
-
 **Books and eBooks**
 
 VMware vRealize Operations Performance and Capacity Management - Iwan 'e1' Rahabok<br/>
 Mastering vRealize Operations Manager - Scott Norris e Christopher Slater<br/>
 E-book (https://www.actualtechmedia.com/gorilla-guide-vrealize-operations/)
 
+**Training**<br/>
+Udemy https://www.udemy.com/course/ing-vmware-vrealize-operations-manager/<br/>
+VMware Education https://bit.ly/2kPRlol<br/>
+
+**Learning Zone and Practical Labs** <br/>
+https://vmwarelearningzone.vmware.com <br/>
+https://labs.hol.vmware.com/HOL/catalogs/catalog/873 <br/> <br/>
+
+**Certification**<br/>
+https://www.vmware.com/education-services/certification/vrealize-operations-2017-specialist.html
 
 **Twitter List**
 
@@ -117,6 +118,9 @@ Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
 | HBO1183BU	|Introducing vRealize Operations as a Service					  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/27853)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1183BU.pdf) |
 | HBO1139BU	|You Get a Cloud and You Get a Cloud: Monitoring with vRealize Operations	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/29002)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1139BU.pdf) |
 
+**More Contributions**<br/>
+3 High-Value Reasons to use vRealize Operations Manager ww.altaro.com/vmware/vrealize-operations-manager/<br/
+Ciclo de alertas no vROPs http://www.itby3.com.br/category/vrops/
 
 **How to collaborate**
 
