@@ -135,7 +135,8 @@ The community thanks you for your contribution.<br/>
 
 **How to contribute**
 
-Through Pull Requests (PR) you can contribute. But first, use the Github issue to discuss proposed changes.
+Through Pull Requests (PR) you can contribute. But first, use the Github issue to discuss proposed changes.<br/>
+You can send message to me with any additions, suggesyions on Twitter @bethcsouza
 
 Thank you to help and share this project with the community!<br/><br/>
 **Thanks for help**<br/>
