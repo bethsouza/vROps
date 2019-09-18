@@ -96,6 +96,7 @@ Matt Bradford [@VMSpot ](https://twitter.com/VMSpot)<br/>
 Lan Nguyen [@LanVMware](https://twitter.com/LanVMware)<br/>
 David Davis [@DavidMDavis](https://twitter.com/DavidMDavis)<br/>
 Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
+Vineeth A C [@Vineethac](https://twitter.com/Vineethac)
 
 **vExpert Cloud Management Directory 2019** https://vexpert.vmware.com/directory/cloudmgmt
 
@@ -117,6 +118,7 @@ Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
 3 High-Value Reasons to use vRealize Operations Manager www.altaro.com/vmware/vrealize-operations-manager/<br/>
 Ciclo de alertas no vROPs http://www.itby3.com.br/category/vrops/<br/>
 Which metric to use for monitoring memory? http://www.yellow-bricks.com/2011/04/29/which-metric-to-use-for-monitoring-memory/<br/>
+vROps articles from Vineeth http://itimssupport.blogspot.com/2019/06/vrealize-operations-manager-75-part1.html<br/>
 
 **How to collaborate**
 
