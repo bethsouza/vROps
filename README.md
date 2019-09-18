@@ -17,8 +17,8 @@ https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/>
 **Download and try** https://my.vmware.com/en/web/vmware/evalcenter?p=vrops-eval
 
 **VROps versions and Release Notes** <br/> <br/>
-(https://www.vmware.com/products/vrealize-operations.html) (English) <br/>
-(https://www.vmware.com/br/products/vrealize-operations.html) (Portuguese) <br/> <br/>
+https://www.vmware.com/products/vrealize-operations.html (English) <br/>
+https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/> <br/>
 [vROps Release Notes 6.7](https://docs.vmware.com/en/vRealize-Operations-Manager/6.7/rn/vRealize-Operations-Manager-67.html) <br/>
 [vROps Release Notes 7.0](https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/rn/vRealize-Operations-Manager-70.html) <br/>
 [vROps Release Notes 7.5](https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/rn/vRealize-Operations-Manager-75.html) <br/> <br/>
@@ -52,11 +52,10 @@ Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/ <br/>
 Sajal Debnath  https://sajaldebnath.com <br/>
 Steve Tilkens http://www.tilkens.com/ <br/>
 
-**Dashboard, Super Metrics Samples**<br/>
+**Dashboard and Super Metrics Samples**<br/>
 https://code.vmware.com/samples<br/>
 
-**Management Packs**
-
+**Management Packs**<br/>
 http://Solutionexchange.vmware.com<br/>
 https://bluemedora.com/products/vmware-vrealize-true-visibility/
 
@@ -71,21 +70,17 @@ VMSpot https://www.youtube.com/channel/UCcV8KDm4lqXgZPbaNFqu_PQ
 
 VMware vRealize Operations Performance and Capacity Management - Iwan 'e1' Rahabok<br/>
 Mastering vRealize Operations Manager - Scott Norris e Christopher Slater<br/>
-E-book (https://www.actualtechmedia.com/gorilla-guide-vrealize-operations/)
+E-book https://www.actualtechmedia.com/gorilla-guide-vrealize-operations/
 
 **Training**<br/>
 Udemy https://www.udemy.com/course/ing-vmware-vrealize-operations-manager/<br/>
-VMware Education https://bit.ly/2kPRlol<br/>
-
+VMware Education https://bit.ly/2kPRlol<br/><br/>
 **Learning Zone and Practical Labs** <br/>
 https://vmwarelearningzone.vmware.com <br/>
 https://labs.hol.vmware.com/HOL/catalogs/catalog/873 <br/> <br/>
-
 **Certification**<br/>
-https://www.vmware.com/education-services/certification/vrealize-operations-2017-specialist.html
-
-**Twitter List**
-
+https://www.vmware.com/education-services/certification/vrealize-operations-2017-specialist.html<br/>
+**Twitter List**<br/>
 Graham Barker [@virtualg_uk](https://twitter.com/virtualg_uk)<br/>
 Priscilla Rega [@PriscillaRega](https://twitter.com/PriscillaRega)<br/>
 Samuel Nunes [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
