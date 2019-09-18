@@ -79,7 +79,7 @@ VMware Education https://bit.ly/2kPRlol<br/><br/>
 https://vmwarelearningzone.vmware.com <br/>
 https://labs.hol.vmware.com/HOL/catalogs/catalog/873 <br/> <br/>
 **Certification**<br/>
-https://www.vmware.com/education-services/certification/vrealize-operations-2017-specialist.html<br/>
+https://www.vmware.com/education-services/certification/vrealize-operations-2017-specialist.html<br/><br/>
 **Twitter List**<br/>
 Graham Barker [@virtualg_uk](https://twitter.com/virtualg_uk)<br/>
 Priscilla Rega [@PriscillaRega](https://twitter.com/PriscillaRega)<br/>
@@ -116,9 +116,10 @@ Vineeth A C [@Vineethac](https://twitter.com/Vineethac)
 
 **More Contributions**<br/>
 3 High-Value Reasons to use vRealize Operations Manager www.altaro.com/vmware/vrealize-operations-manager/<br/>
-Ciclo de alertas no vROPs http://www.itby3.com.br/category/vrops/<br/>
+Alerts Cycle in vROps http://www.itby3.com.br/category/vrops/<br/> (Portuguese)
 Which metric to use for monitoring memory? http://www.yellow-bricks.com/2011/04/29/which-metric-to-use-for-monitoring-memory/<br/>
-vROps articles from Vineeth http://itimssupport.blogspot.com/2019/06/vrealize-operations-manager-75-part1.html<br/>
+vROps articles from Vineeth http://itimssupport.blogspot.com/2019/06/vrealize-operations-manager-75-part1.html<br/> 
+Installing vROps 7.0 https://www.itproland.com.br/vmware-instalando-o-vrealize-operations-manager-7-0/<br/> (Portuguese)<br/>
 
 **How to collaborate**
 
