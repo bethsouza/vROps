@@ -52,6 +52,7 @@ Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/ <br/>
 Sajal Debnath  https://sajaldebnath.com <br/>
 Steve Tilkens http://www.tilkens.com/ <br/>
 Matt Bradford http://www.vmspot.com<br/>
+Graham Barker https://virtualg.uk/category/vmware/vmware-vrealize/<br/>
 
 **Dashboard and Super Metrics Samples**<br/>
 vrealize.vmware.com/sample-exchange<br/>
