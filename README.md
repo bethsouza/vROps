@@ -53,6 +53,9 @@ Sajal Debnath  https://sajaldebnath.com <br/>
 Steve Tilkens http://www.tilkens.com/ <br/>
 Matt Bradford http://www.vmspot.com<br/>
 Graham Barker https://virtualg.uk/category/vmware/vmware-vrealize/<br/>
+Priscilla Rega http://www.itby3.com.br/category/vrops/ (Portuguese)<br/>
+Vineeth A C http://itimssupport.blogspot.com/2019/06/vrealize-operations-manager-75-part1.html<br/> 
+Wesley Martins https://www.itproland.com.br/vmware-instalando-o-vrealize-operations-manager-7-0/ (Portuguese)<br/>
 
 **Dashboard and Super Metrics Samples**<br/>
 vrealize.vmware.com/sample-exchange<br/>
@@ -123,10 +126,7 @@ Brandon Gordon [@ImNotoriousBDG](https://twitter.com/ImNotoriousBDG)<br/>
 
 **More Contributions**<br/>
 3 High-Value Reasons to use vRealize Operations Manager www.altaro.com/vmware/vrealize-operations-manager/<br/>
-Alerts Cycle in vROps http://www.itby3.com.br/category/vrops/ (Portuguese)<br/>
 Which metric to use for monitoring memory? http://www.yellow-bricks.com/2011/04/29/which-metric-to-use-for-monitoring-memory/<br/>
-vROps articles from Vineeth http://itimssupport.blogspot.com/2019/06/vrealize-operations-manager-75-part1.html<br/> 
-Installing vROps 7.0 https://www.itproland.com.br/vmware-instalando-o-vrealize-operations-manager-7-0/ (Portuguese)<br/>
 
 **How to collaborate**
 
