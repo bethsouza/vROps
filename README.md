@@ -122,8 +122,6 @@ Brandon Gordon [@ImNotoriousBDG](https://twitter.com/ImNotoriousBDG)<br/>
 | HBO1139BU	|You Get a Cloud and You Get a Cloud: Monitoring with vRealize Operations	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/29002)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1139BU.pdf) |
 | HCI1339BU	|vSAN Administration Optimized Through vRealize Operations and Log Insight	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/28794)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HCI1339BU.pdf) |
 
- (HCI1339BU)
-
 **More Contributions**<br/>
 3 High-Value Reasons to use vRealize Operations Manager www.altaro.com/vmware/vrealize-operations-manager/<br/>
 Which metric to use for monitoring memory? http://www.yellow-bricks.com/2011/04/29/which-metric-to-use-for-monitoring-memory/<br/>
