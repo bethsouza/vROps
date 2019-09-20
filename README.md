@@ -121,6 +121,8 @@ Brandon Gordon [@ImNotoriousBDG](https://twitter.com/ImNotoriousBDG)<br/>
 | HBO1183BU	|Introducing vRealize Operations as a Service					  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/27853)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1183BU.pdf) |
 | HBO1139BU	|You Get a Cloud and You Get a Cloud: Monitoring with vRealize Operations	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/29002)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1139BU.pdf) |
 | HCI1339BU	|vSAN Administration Optimized Through vRealize Operations and Log Insight	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/28794)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HCI1339BU.pdf) |
+| HBO1138BU	|Yes, Mr. CFO, IT Is Expensive — Understand Why with vRealize Operations 	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/29001)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1138BU.pdf) |
+
 
 **More Contributions**<br/>
 3 High-Value Reasons to use vRealize Operations Manager www.altaro.com/vmware/vrealize-operations-manager/<br/>
