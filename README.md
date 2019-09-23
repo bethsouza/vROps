@@ -59,7 +59,7 @@ vMan https://vman.ch/category/vmware/vrops/<br/>
 Wesley Martins https://www.itproland.com.br/vmware-instalando-o-vrealize-operations-manager-7-0/ (Portuguese)<br/>
 
 **Dashboard and Super Metrics Samples**<br/>
-vrealize.vmware.com/sample-exchange<br/>
+VMware Code https://vrealize.vmware.com/sample-exchange<br/>
 
 **Management Packs**<br/>
 http://Solutionexchange.vmware.com<br/>
