@@ -40,21 +40,22 @@ https://communities.vmware.com/community/vmtn/vrealize/vrops <br/> <br/>
 https://docs.vmware.com/en/vRealize-Operations-Manager/index.html <br/> <br/>
 **Blogs** <br/>
 Blog VMware https://blogs.vmware.com/management/ <br/>
-Samuel Nunes http://www.eucbrasil.com/ <br/>
-Lior Kamrat http://imallvirtual.com/vcops-resources/ <br/>
-Sunny Dua http://vxpresss.blogspot.com/ <br/>
+Eran Maor https://vrealizeandbeyond.com/category/vrops/ <br/>
+Graham Barker https://virtualg.uk/category/vmware/vmware-vrealize/<br/>
 Iwan Rahabok http://virtual-red-dot.info/iwan-rahabok/ <br/>
-Thom Greene https://www.thomgreene.com <br/>
 John Dias http://www.storagegumbo.com/ <br/>
 Lan Nguyen http://www.vmignite.com <br/>
-Eran Maor https://vrealizeandbeyond.com/category/vrops/ <br/>
-Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/ <br/>
-Sajal Debnath  https://sajaldebnath.com <br/>
-Steve Tilkens http://www.tilkens.com/ <br/>
+Lior Kamrat http://imallvirtual.com/vcops-resources/ <br/>
 Matt Bradford http://www.vmspot.com<br/>
-Graham Barker https://virtualg.uk/category/vmware/vmware-vrealize/<br/>
+Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/ <br/>
 Priscilla Rega http://www.itby3.com.br/category/vrops/ (Portuguese)<br/>
-Vineeth A C http://itimssupport.blogspot.com/2019/06/vrealize-operations-manager-75-part1.html<br/> 
+Sajal Debnath  https://sajaldebnath.com <br/>
+Samuel Nunes http://www.eucbrasil.com/ <br/>
+Steve Tilkens http://www.tilkens.com/ <br/>
+Sunny Dua http://vxpresss.blogspot.com/ <br/>
+Thom Greene https://www.thomgreene.com <br/>
+Vineeth A C http://itimssupport.blogspot.com/2019/09/vrealize-operations-manager-75-blog-series.html<br/> 
+vMan https://vman.ch/category/vmware/vrops/<br/> 
 Wesley Martins https://www.itproland.com.br/vmware-instalando-o-vrealize-operations-manager-7-0/ (Portuguese)<br/>
 
 **Dashboard and Super Metrics Samples**<br/>
