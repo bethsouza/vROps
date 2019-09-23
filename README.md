@@ -66,10 +66,10 @@ https://bluemedora.com/products/vmware-vrealize-true-visibility/
 
 **Youtube Channels**
 
-VMware Cloud Management https://www.youtube.com/channel/UCKON30YeSGIeqsueMYgEa9A<br/>
 Virtualization24x7  https://www.youtube.com/channel/UCcrKN4gu9ZwXUlHD5Ly8BgA<br/>
 VMware Tech Pubs https://www.youtube.com/watch?v=DS_dCH3cq7I&list=PLmp0id7yKiEclPbge6XMVZnQtndtiuMlB<br/>
-VMSpot https://www.youtube.com/channel/UCcV8KDm4lqXgZPbaNFqu_PQ
+VMSpot https://www.youtube.com/channel/UCcV8KDm4lqXgZPbaNFqu_PQ<br/>
+VMware Cloud Management https://www.youtube.com/channel/UCKON30YeSGIeqsueMYgEa9A<br/>
 
 **Books and eBooks**
 
@@ -86,24 +86,24 @@ https://labs.hol.vmware.com/HOL/catalogs/catalog/873 <br/> <br/>
 **Certification**<br/>
 https://www.vmware.com/education-services/certification/vrealize-operations-2017-specialist.html<br/><br/>
 **Twitter List**<br/>
+Brandon Gordon [@ImNotoriousBDG](https://twitter.com/ImNotoriousBDG)<br/>
+David Davis [@DavidMDavis](https://twitter.com/DavidMDavis)<br/>
+David overbeek [@davidoverbeek](https://twitter.com/davidoverbeek)<br/>
 Graham Barker [@virtualg_uk](https://twitter.com/virtualg_uk)<br/>
+Iwan 'e1' rahabok [@e1_ang](https://twitter.com/e1_ang)<br/>
+John Dias [@johnddias](https://twitter.com/johnddias)<br/>
+Lan Nguyen [@LanVMware](https://twitter.com/LanVMware)<br/>
+Luciano Gomes [@lucgovmw](https://twitter.com/lucgovmw)<br/>
+Matt Bradford [@VMSpot ](https://twitter.com/VMSpot)<br/>
+Michael Ryom [@MichaelRyom](https://twitter.com/MichaelRyom)<br/>
 Priscilla Rega [@PriscillaRega](https://twitter.com/PriscillaRega)<br/>
 Samuel Nunes [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
-Luciano Gomes [@lucgovmw](https://twitter.com/lucgovmw)<br/>
-vMusketeers [@vMusketeers](https://twitter.com/vMusketeers)<br/>
-John Dias [@johnddias](https://twitter.com/johnddias)<br/>
-Thom Greene [@tbgree00](https://twitter.com/tbgree00)<br/>
 Steve Tilkens [@stevetilkens](https://twitter.com/stevetilkens)<br/>
-Michael Ryom [@MichaelRyom](https://twitter.com/MichaelRyom)<br/>
-Iwan 'e1' rahabok [@e1_ang](https://twitter.com/e1_ang)<br/>
-Sunny Dua [@Sunny_Dua](https://twitter.com/Sunny_Dua)<br/>
-Matt Bradford [@VMSpot ](https://twitter.com/VMSpot)<br/>
-Lan Nguyen [@LanVMware](https://twitter.com/LanVMware)<br/>
-David Davis [@DavidMDavis](https://twitter.com/DavidMDavis)<br/>
+Thom Greene [@tbgree00](https://twitter.com/tbgree00)<br/>
 Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
+Sunny Dua [@Sunny_Dua](https://twitter.com/Sunny_Dua)<br/>
 Vineeth A C [@Vineethac](https://twitter.com/Vineethac)<br/>
-David overbeek [@davidoverbeek](https://twitter.com/davidoverbeek)<br/>
-Brandon Gordon [@ImNotoriousBDG](https://twitter.com/ImNotoriousBDG)<br/>
+vMusketeers [@vMusketeers](https://twitter.com/vMusketeers)<br/>
 
 **vExpert Cloud Management Directory 2019** https://vexpert.vmware.com/directory/cloudmgmt
 
