@@ -24,7 +24,7 @@ https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/> <
 [vROps Release Notes 7.5](https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/rn/vRealize-Operations-Manager-75.html) <br/> <br/>
 **Coming Soon**🎉 <br/>
 https://blogs.vmware.com/management/2019/08/whats-new-in-vrealize-operations-8-0.html <br/> <br/>
-**Brazilian Telegram group**  t.me/vRops <br/> <br/>
+**Brazilian Telegram group**  https://t.me/vRops<br/> <br/>
 **Product Datasheet** <br/>
 https://www.vmware.com/content/dam/digitalmarketing/vmware/pt/pdf/products/vCenter/vmware-vrealize-operations-datasheet.pdf <br/> <br/>
 **About Definitions for Metrics, Properties, and Alerts** <br/>
