@@ -49,6 +49,7 @@ Lior Kamrat http://imallvirtual.com/vcops-resources/ <br/>
 Matt Bradford http://www.vmspot.com<br/>
 Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/ <br/>
 Priscilla Rega http://www.itby3.com.br/category/vrops/ (Portuguese)<br/>
+Rick Verstegen https://rickverstegen84.wordpress.com/<br/>
 Sajal Debnath  https://sajaldebnath.com <br/>
 Samuel Nunes http://www.eucbrasil.com/ <br/>
 Steve Tilkens http://www.tilkens.com/ <br/>
@@ -103,6 +104,7 @@ Luciano Gomes [@lucgovmw](https://twitter.com/lucgovmw)<br/>
 Matt Bradford [@VMSpot ](https://twitter.com/VMSpot)<br/>
 Michael Ryom [@MichaelRyom](https://twitter.com/MichaelRyom)<br/>
 Priscilla Rega [@PriscillaRega](https://twitter.com/PriscillaRega)<br/>
+Rick Verstegen [@VerstegenRick](https://twitter.com/VerstegenRick)<br/>
 Samuel Nunes [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
 Steve Tilkens [@stevetilkens](https://twitter.com/stevetilkens)<br/>
 Thom Greene [@tbgree00](https://twitter.com/tbgree00)<br/>
