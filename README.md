@@ -58,6 +58,11 @@ Vineeth A C http://itimssupport.blogspot.com/2019/09/vrealize-operations-manager
 vMan https://vman.ch/category/vmware/vrops/<br/> 
 Wesley Martins https://www.itproland.com.br/vmware-instalando-o-vrealize-operations-manager-7-0/ (Portuguese)<br/>
 
+**From GitHub**<br/>
+Tim Carman https://github.com/AsBuiltReport/AsBuiltReport.VMware.vROps<br/>
+Pontus Rydin https://github.com/vmware/vrops-export/<br/>
+Brock Peterson https://github.com/brockpeterson/vrops_dashboards<br/>
+
 **Dashboard and Super Metrics Samples**<br/>
 VMware Code https://vrealize.vmware.com/sample-exchange<br/>
 
