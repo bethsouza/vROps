@@ -63,6 +63,7 @@ Wesley Martins https://www.itproland.com.br/vmware-instalando-o-vrealize-operati
 Tim Carman https://github.com/AsBuiltReport/AsBuiltReport.VMware.vROps<br/>
 Pontus Rydin https://github.com/vmware/vrops-export/<br/>
 Brock Peterson https://github.com/brockpeterson/vrops_dashboards<br/>
+John Dias https://github.com/johnddias/vrobbie<br/>
 
 **Dashboard and Super Metrics Samples**<br/>
 VMware Code https://vrealize.vmware.com/sample-exchange<br/>
@@ -135,6 +136,7 @@ vMusketeers [@vMusketeers](https://twitter.com/vMusketeers)<br/>
 **More Contributions**<br/>
 3 High-Value Reasons to use vRealize Operations Manager www.altaro.com/vmware/vrealize-operations-manager/<br/>
 Which metric to use for monitoring memory? http://www.yellow-bricks.com/2011/04/29/which-metric-to-use-for-monitoring-memory/<br/>
+Postman Client Collection for vRealize Operations REST APIs https://code.vmware.com/samples/4663/postman-client-collection-for-vrealize-operations-rest-apis<br/>
 
 **How to collaborate**
 
