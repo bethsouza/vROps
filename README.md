@@ -114,7 +114,77 @@ Sunny Dua [@Sunny_Dua](https://twitter.com/Sunny_Dua)<br/>
 Vineeth A C [@Vineethac](https://twitter.com/Vineethac)<br/>
 vMusketeers [@vMusketeers](https://twitter.com/vMusketeers)<br/>
 
-**vExpert Cloud Management Directory 2019** https://vexpert.vmware.com/directory/cloudmgmt
+**vExpert Cloud Management Directory 2019** https://vexpert.vmware.com/directory/cloudmgmt<br/>
+
+| Name	                                 |  Profile         		                        	  |
+| -------------------------------------- | ---------------------------------------------------------------| 
+| Abdulaziz Radwan	                 | https://vexpert.vmware.com/directory/2072	                  | 
+| Abhilash HB     	                 | https://vexpert.vmware.com/directory/335	                  | 
+| Alain Geenrits     	                 | https://vexpert.vmware.com/directory/2771	                  | 
+| Anastasis Xouzafeiris                  | https://vexpert.vmware.com/directory/172	                  | 
+| Anderson Duboc     	                 | https://vexpert.vmware.com/directory/2027	                  | 
+| Batuhan Demirdal     	                 | https://vexpert.vmware.com/directory/1709	                  | 
+| Britton Johnson     	                 | https://vexpert.vmware.com/directory/1594	                  | 
+| Chi Kin Wu     	                 | https://vexpert.vmware.com/directory/155	                  |
+| Chris Horning     	                 | https://vexpert.vmware.com/directory/1238	                  | 
+| Christian Mohn     	                 | https://vexpert.vmware.com/directory/656	                  | 
+| Christopher Lewis     	         | https://vexpert.vmware.com/directory/912	                  | 
+| Christopher Mitchell                   | https://vexpert.vmware.com/directory/3939	                  | 
+| CloudPanda Blogs     	                 | https://vexpert.vmware.com/directory/1614	                  | 
+| Cory Barker     	                 | https://vexpert.vmware.com/directory/1043	                  | 
+| Dan Kahl       	                 | https://vexpert.vmware.com/directory/3588	                  | 
+| David Davis     	                 | https://vexpert.vmware.com/directory/990	                  | 
+| David Ring     	                 | https://vexpert.vmware.com/directory/421	                  |
+| Dimitri de Swart     	                 | https://vexpert.vmware.com/directory/1860	                  | 
+| Ebrahim Aldesouky     	         | https://vexpert.vmware.com/directory/211	                  | 
+| Eddie Kwok     	                 | https://vexpert.vmware.com/directory/1687	                  | 
+| Edgar Carvalho     	                 | https://vexpert.vmware.com/directory/19	                  | 
+| Elizabeth Souza     	                 | https://vexpert.vmware.com/directory/2774	                  |
+| Eric Stacey     	                 | https://vexpert.vmware.com/directory/1830	                  |
+| Erik Verbruggen     	                 | https://vexpert.vmware.com/directory/626	                  |
+| Graham Barker     	                 | https://vexpert.vmware.com/directory/834	                  | 
+| Henry Heres     	                 | https://vexpert.vmware.com/directory/1890	                  | 
+| Hernan Paggi     	                 | https://vexpert.vmware.com/directory/6	                  | 
+| Jack Benney     	                 | https://vexpert.vmware.com/directory/3476	                  | 
+| Jason Meers     	                 | https://vexpert.vmware.com/directory/2289	                  | 
+| Jeffrey Kusters     	                 | https://vexpert.vmware.com/directory/596	                  | 
+| Jon Waite     	                 | https://vexpert.vmware.com/directory/647	                  |
+| Kai Scharwies     	                 | https://vexpert.vmware.com/directory/3281	                  |
+| Karthic Kumar     	                 | https://vexpert.vmware.com/directory/348	                  | 
+| Kerem Sugle     	                 | https://vexpert.vmware.com/directory/807	                  |
+| Lukas Winn     	                 | https://vexpert.vmware.com/directory/962	                  |
+| Manny Sidhu     	                 | https://vexpert.vmware.com/directory/49	                  |
+| Marc De Grasse     	                 | https://vexpert.vmware.com/directory/129	                  | 
+| Markus Kraus     	                 | https://vexpert.vmware.com/directory/274	                  |
+| Martijn Smit     	                 | https://vexpert.vmware.com/directory/1	                  |
+| Matt Menkowski     	                 | https://vexpert.vmware.com/directory/1338	                  |
+| Michael Fleisher     	                 | https://vexpert.vmware.com/directory/1172	                  |
+| Michael Ryom     	                 | https://vexpert.vmware.com/directory/205	                  |
+| Munishpal Makhija     	         | https://vexpert.vmware.com/directory/3882	                  |
+| Myint Htay Aung     	                 | https://vexpert.vmware.com/directory/1735	                  |
+| Onur Can     	                         | https://vexpert.vmware.com/directory/1726	                  |
+| Piotr Masztafiak     	                 | https://vexpert.vmware.com/directory/676	                  |
+| Prashant Rangi     	                 | https://vexpert.vmware.com/directory/2157	                  |
+| Raul Gamez Gamez     	                 | https://vexpert.vmware.com/directory/742	                  |
+| Ravi Verma     	                 | https://vexpert.vmware.com/directory/2209	                  |
+| Rick Verstegen     	                 | https://vexpert.vmware.com/directory/2847	                  |
+| Russel Hamker     	                 | https://vexpert.vmware.com/directory/1216	                  |
+| Sajal Debnath     	                 | https://vexpert.vmware.com/directory/325	                  |
+| Samuel Nunes     	                 | https://vexpert.vmware.com/directory/2164	                  |
+| Saurabh Chandratre    	         | https://vexpert.vmware.com/directory/970	                  |
+| Scott Norris     	                 | https://vexpert.vmware.com/directory/42	                  |
+| Sebastian Grugel     	                 | https://vexpert.vmware.com/directory/670	                  |
+| Siddharth Naik     	                 | https://vexpert.vmware.com/directory/1914	                  |
+| Simon Eady     	                 | https://vexpert.vmware.com/directory/865	                  |
+| Steve Flanders     	                 | https://vexpert.vmware.com/directory/1170	                  |
+| Steven Onofaro      	                 | https://vexpert.vmware.com/directory/3189	                  |
+| Steve Tilkens     	                 | https://vexpert.vmware.com/directory/2168	                  |
+| Suraj Rawat     	                 | https://vexpert.vmware.com/directory/2831	                  |
+| Terkel Olsen     	                 | https://vexpert.vmware.com/directory/202	                  |
+| Tim Williams     	                 | https://vexpert.vmware.com/directory/62	                  |
+| Viktor van den Berg 	                 | https://vexpert.vmware.com/directory/563	                  |
+| Yuki Kawamitsu     	                 | https://vexpert.vmware.com/directory/477	                  |
+| Yves Sandfort     	                 | https://vexpert.vmware.com/directory/288	                  |
 
 **Some VMworld 2019 Sessions Videos**
 
