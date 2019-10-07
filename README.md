@@ -40,6 +40,7 @@ https://communities.vmware.com/community/vmtn/vrealize/vrops <br/> <br/>
 https://docs.vmware.com/en/vRealize-Operations-Manager/index.html <br/> <br/>
 **Blogs** <br/>
 Blog VMware https://blogs.vmware.com/management/ <br/>
+Cameron Fore http://cameronfore.com/<br/>
 Eran Maor https://vrealizeandbeyond.com/category/vrops/ <br/>
 Graham Barker https://virtualg.uk/category/vmware/vmware-vrealize/<br/>
 Iwan Rahabok http://virtual-red-dot.info/iwan-rahabok/ <br/>
