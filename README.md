@@ -41,6 +41,7 @@ https://docs.vmware.com/en/vRealize-Operations-Manager/index.html <br/> <br/>
 **Blogs** <br/>
 Blog VMware https://blogs.vmware.com/management/ <br/>
 Cameron Fore http://cameronfore.com/<br/>
+Christopher Mitchell http://www.caenotech.co.uk/category/vmware/vrops/ <br/>
 Eran Maor https://vrealizeandbeyond.com/category/vrops/ <br/>
 Graham Barker https://virtualg.uk/category/vmware/vmware-vrealize/<br/>
 Iwan Rahabok http://virtual-red-dot.info/iwan-rahabok/ <br/>
@@ -49,6 +50,7 @@ Lan Nguyen http://www.vmignite.com <br/>
 Lior Kamrat http://imallvirtual.com/vcops-resources/ <br/>
 Matt Bradford http://www.vmspot.com<br/>
 Mayur Paramar https://masteringvmware.com/vrealize-operations-manager/ <br/>
+Paolo Valsecchi https://nolabnoparty.com/en/vrealize-operations-manager-7-5-deployment-pt-1/<br/>
 Priscilla Rega http://www.itby3.com.br/category/vrops/ (Portuguese)<br/>
 Rick Verstegen https://rickverstegen84.wordpress.com/<br/>
 Sajal Debnath  https://sajaldebnath.com <br/>
@@ -61,10 +63,11 @@ vMan https://vman.ch/category/vmware/vrops/<br/>
 Wesley Martins https://www.itproland.com.br/vmware-instalando-o-vrealize-operations-manager-7-0/ (Portuguese)<br/>
 
 **From GitHub**<br/>
-Tim Carman https://github.com/AsBuiltReport/AsBuiltReport.VMware.vROps<br/>
-Pontus Rydin https://github.com/vmware/vrops-export/<br/>
+Brandon Gordon https://github.com/notoriousbdg<br/>
 Brock Peterson https://github.com/brockpeterson/vrops_dashboards<br/>
 John Dias https://github.com/johnddias/vrobbie<br/>
+Pontus Rydin https://github.com/vmware/vrops-export/<br/>
+Tim Carman https://github.com/AsBuiltReport/AsBuiltReport.VMware.vROps<br/>
 
 **Dashboard and Super Metrics Samples**<br/>
 VMware Code https://vrealize.vmware.com/sample-exchange<br/>
