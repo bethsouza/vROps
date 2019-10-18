@@ -5,6 +5,9 @@
    <img src="https://github.com/bethsouza/vROps/blob/master/vropss.JPG">
 </p>
 
+<p align="center"><b>** vROps 8.0 release is officially available ** https://t.co/GZAmB5IaDk?amp=1 </b>
+
+
 **Before begin...**<br/>
 Welcome! This is my first experience with this type of project. Therefore, I count on your contribution, making this repository useful for the community. If there is any mistake regarding the information, please feel free to submit corrections or new contributions.
 [Here's how to contribute](https://github.com/bethsouza/vROps/blob/master/contribute.md)
@@ -22,8 +25,7 @@ https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/> <
 [vROps Release Notes 6.7](https://docs.vmware.com/en/vRealize-Operations-Manager/6.7/rn/vRealize-Operations-Manager-67.html) <br/>
 [vROps Release Notes 7.0](https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/rn/vRealize-Operations-Manager-70.html) <br/>
 [vROps Release Notes 7.5](https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/rn/vRealize-Operations-Manager-75.html) <br/> <br/>
-**Coming Soon**🎉 <br/>
-https://blogs.vmware.com/management/2019/08/whats-new-in-vrealize-operations-8-0.html <br/> <br/>
+
 **Brazilian Telegram group**  https://t.me/vRops<br/> <br/>
 **Product Datasheet** <br/>
 https://www.vmware.com/content/dam/digitalmarketing/vmware/pt/pdf/products/vCenter/vmware-vrealize-operations-datasheet.pdf <br/> <br/>
