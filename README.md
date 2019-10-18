@@ -24,7 +24,8 @@ https://www.vmware.com/products/vrealize-operations.html (English) <br/>
 https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/> <br/>
 [vROps Release Notes 6.7](https://docs.vmware.com/en/vRealize-Operations-Manager/6.7/rn/vRealize-Operations-Manager-67.html) <br/>
 [vROps Release Notes 7.0](https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/rn/vRealize-Operations-Manager-70.html) <br/>
-[vROps Release Notes 7.5](https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/rn/vRealize-Operations-Manager-75.html) <br/> <br/>
+[vROps Release Notes 7.5](https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/rn/vRealize-Operations-Manager-75.html) <br/>
+[vROps Release Notes 8.0](https://docs.vmware.com/en/vRealize-Operations-Manager/8.0/rn/vRealize-Operations-Manager-80.html) <br/>
 
 **Brazilian Telegram group**  https://t.me/vRops<br/> <br/>
 **Product Datasheet** <br/>
