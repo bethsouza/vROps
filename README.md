@@ -97,6 +97,7 @@ E-book https://www.actualtechmedia.com/gorilla-guide-vrealize-operations/
 Udemy https://www.udemy.com/course/ing-vmware-vrealize-operations-manager/<br/>
 VMware Education https://bit.ly/2kPRlol<br/><br/>
 **Learning Zone and Practical Labs** <br/>
+https://vrealize.vmware.com/t/vrealize-operations/additional-learning-1/<br/>
 https://vmwarelearningzone.vmware.com <br/>
 https://labs.hol.vmware.com/HOL/catalogs/catalog/873 <br/> <br/>
 **Certification**<br/>
