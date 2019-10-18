@@ -35,8 +35,8 @@ https://www.vmware.com/content/dam/digitalmarketing/vmware/pt/pdf/products/vCent
 https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/vrealize-operations-manager-70-reference-guide.pdf <br/>
 **Version 7.5**<br/>
 https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/vrealize-operations-manager-75-reference-guide.pdf <br/> <br/>
-**Product Walktour** <br/>
-https://vrealize.vmware.com/t/vrealize-suite-standard-2/vrealize-operations-guided-tour/ <br/> <br/>
+**Product Walkthrough ** <br/>
+https://vrealize.vmware.com/t/vrealize-operations/vrealize-operations-features-and-capabilities/ <br/> <br/>
 **VMware Technical Network (VMTN)** <br/>
 https://communities.vmware.com/community/vmtn/vrealize/vrops <br/> <br/>
 **Documentation** <br/>
