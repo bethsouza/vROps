@@ -58,6 +58,7 @@ Priscilla Rega http://www.itby3.com.br/category/vrops/ (Portuguese)<br/>
 Rick Verstegen https://rickverstegen84.wordpress.com/<br/>
 Sajal Debnath  https://sajaldebnath.com <br/>
 Samuel Nunes http://www.eucbrasil.com/ <br/>
+Scott Norris https://www.virtualiseme.net.au/ <br/>
 Steve Tilkens http://www.tilkens.com/ <br/>
 Sunny Dua http://vxpresss.blogspot.com/ <br/>
 Suraj Rawat https://vmarkade.wordpress.com/vrealize-operations-manager/<br/> 
@@ -116,11 +117,12 @@ Michael Ryom [@MichaelRyom](https://twitter.com/MichaelRyom)<br/>
 Priscilla Rega [@PriscillaRega](https://twitter.com/PriscillaRega)<br/>
 Rick Verstegen [@VerstegenRick](https://twitter.com/VerstegenRick)<br/>
 Samuel Nunes [@Samuel_SPI](https://twitter.com/samuel_spi)<br/>
+Scott Norris [@auScottNorris](https://twitter.com/auScottNorris)<br/>
 Steve Tilkens [@stevetilkens](https://twitter.com/stevetilkens)<br/>
-Thom Greene [@tbgree00](https://twitter.com/tbgree00)<br/>
 Sajal Debnath [@sajal_debnath](https://twitter.com/@sajal_debnath)<br/>
 Sunny Dua [@Sunny_Dua](https://twitter.com/Sunny_Dua)<br/>
 Suraj Rawat [@RawatSuraj89](https://twitter.com/RawatSuraj89)<br/>
+Thom Greene [@tbgree00](https://twitter.com/tbgree00)<br/>
 Vineeth A C [@Vineethac](https://twitter.com/Vineethac)<br/>
 vMusketeers [@vMusketeers](https://twitter.com/vMusketeers)<br/>
 
