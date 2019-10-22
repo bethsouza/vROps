@@ -220,6 +220,7 @@ vMusketeers [@vMusketeers](https://twitter.com/vMusketeers)<br/>
 Which metric to use for monitoring memory? http://www.yellow-bricks.com/2011/04/29/which-metric-to-use-for-monitoring-memory/<br/>
 Postman Client Collection for vRealize Operations REST APIs https://code.vmware.com/samples/4663/postman-client-collection-for-vrealize-operations-rest-apis<br/>
 Getting started with PowerCLI for vRealize Operations (vR OPs) https://blogs.vmware.com/PowerCLI/2016/05/getting-started-with-powercli-for-vrealize-operations-vr-ops.html<br/>
+Flings https://flings.vmware.com/?utf8=%E2%9C%93&product=vRealize+Operations+Manager<br/>
 
 **How to collaborate**
 
