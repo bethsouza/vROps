@@ -5,13 +5,30 @@
    <img src="https://github.com/bethsouza/vROps/blob/master/vropss.JPG">
 </p>
 
-<p align="center"><b>** vROps 8.0 release is officially available ** https://t.co/GZAmB5IaDk?amp=1 </b>
-
-
 **Before begin...**<br/>
 Welcome! This is my first experience with this type of project. Therefore, I count on your contribution, making this repository useful for the community. If there is any mistake regarding the information, please feel free to submit corrections or new contributions.
 [Here's how to contribute](https://github.com/bethsouza/vROps/blob/master/contribute.md)
 
+<p align="center"><b> **vROps 8.0 release is officially available** </br>
+  <p align="center"> 
+   https://blogs.vmware.com/management/2019/10/whats-new-in-vrealize-operations-8-0-2.html</br></br>
+  </p>
+  
+  **Some tips to see before upgrade your version**
+   
+   Backup vROps virtual appliance </br>
+   
+   Run the Pre-Upgrade Assessment Tool for 8.0 before you do anything else https://vrealize.vmware.com/t/vrealize-operations/additional-learning-1/vrealize-operations-upgrade-assessment-tool/ </br>
+   
+   Upgrade to vRealize Operations Manager 8.0 fails due to low space on /dev/sda (75298) https://kb.vmware.com/s/article/75298 </br>
+   
+   Potential issue about certificate https://kb.vmware.com/s/article/71018 </br>
+   
+   Issue about expired password https://kb.vmware.com/s/article/75195 </br>
+   
+   Don´t forget to upgrade the Application Remote Collector, if you use it https://docs.vmware.com/en/vRealize-Operations-Manager/8.0/com.vmware.vcom.config.doc/GUID-AF30EB3B-895F-466F-8AEC-AB44E7E42875.html </br> </br>
+      
+  
 **Product Information**
 
 https://www.vmware.com/products/vrealize-operations.html (English) <br/>
