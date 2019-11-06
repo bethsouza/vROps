@@ -27,8 +27,8 @@ Welcome! This is my first experience with this type of project. Therefore, I cou
    Issue about expired password https://kb.vmware.com/s/article/75195 </br>
    
    Don´t forget to upgrade the Application Remote Collector, if you use it https://docs.vmware.com/en/vRealize-Operations-Manager/8.0/com.vmware.vcom.config.doc/GUID-AF30EB3B-895F-466F-8AEC-AB44E7E42875.html </br> </br>
-      
-  
+vROps Deprecated Metrics and Replacement Recommendations http://partnerweb.vmware.com/programs/vrops/DeprecatedContent.html</br>
+
 **Product Information**
 
 https://www.vmware.com/products/vrealize-operations.html (English) <br/>
