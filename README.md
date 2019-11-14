@@ -13,7 +13,11 @@ Welcome! This is my first experience with this type of project. Therefore, I cou
   <p align="center"> 
    https://blogs.vmware.com/management/2019/10/whats-new-in-vrealize-operations-8-0-2.html</br></br>
   </p>
-  
+ 
+ **Attention if you are deploying a vROps 8.0 fresh install**
+ 
+ https://kb.vmware.com/s/article/76154</br>
+ 
   **Some tips to see before upgrade your version**
    
    Backup vROps virtual appliance </br>
