@@ -16,7 +16,7 @@ Welcome! This is my first experience with this type of project. Therefore, I cou
  
  **Attention if you are deploying a vROps 8.0 fresh install**
  
- https://kb.vmware.com/s/article/76154</br>
+ / is full on vRealize Operations Manager 8.0 https://kb.vmware.com/s/article/76154</br></br>
  
   **Some tips to see before upgrade your version**
    
