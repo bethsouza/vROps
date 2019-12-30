@@ -84,7 +84,7 @@ Steve Tilkens http://www.tilkens.com/ <br/>
 Sunny Dua http://vxpresss.blogspot.com/ <br/>
 Suraj Rawat https://vmarkade.wordpress.com/vrealize-operations-manager/<br/> 
 Thom Greene https://www.thomgreene.com <br/>
-Vineeth A C http://itimssupport.blogspot.com/2019/09/vrealize-operations-manager-75-blog-series.html<br/> 
+Vineeth A C https://vineethac.blogspot.com/2019/09/vrealize-operations-manager-75-blog.html?m=1<br/> 
 vMan https://vman.ch/category/vmware/vrops/<br/> 
 Wesley Martins https://www.itproland.com.br/vmware-instalando-o-vrealize-operations-manager-7-0/ (Portuguese)<br/>
 
