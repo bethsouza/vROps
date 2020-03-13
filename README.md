@@ -9,11 +9,8 @@
 Welcome! This is my first experience with this type of project. Therefore, I count on your contribution, making this repository useful for the community. If there is any mistake regarding the information, please feel free to submit corrections or new contributions.
 [Here's how to contribute](https://github.com/bethsouza/vROps/blob/master/contribute.md)
 
-<p align="center"><b> **vROps 8.0 release is officially available** </br>
-  <p align="center"> 
-   https://blogs.vmware.com/management/2019/10/whats-new-in-vrealize-operations-8-0-2.html</br></br>
-  </p>
- 
+<p align="center"><b> **Announcing #vROps 8.1! https://t.co/N6XTuj1Jsm?amp=1** </br>
+  
  ** **Attention if you are deploying a vROps 8.0 fresh install** **
  
  / is full on vRealize Operations Manager 8.0 https://kb.vmware.com/s/article/76154</br></br>
