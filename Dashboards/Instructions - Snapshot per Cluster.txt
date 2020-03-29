@@ -1,0 +1,6 @@
+A very simple dashboard to show snapshot per Cluster.
+
+Download the zip file Dashboard and View.zip. There are two file files: 
+Dashboard Snapshot per Cluster.zip and the view View Best Practices Snapshot.zip. 
+Unzip and import first the view file and then the dashboard zip file. 
+
