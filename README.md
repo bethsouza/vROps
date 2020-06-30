@@ -10,13 +10,14 @@ Welcome! This is my first experience with this type of project. Therefore, I cou
 [Here's how to contribute](https://github.com/bethsouza/vROps/blob/master/contribute.md)
 
 <p align="center"><b> **Announcing #vRealize Operations Manager 8.1! https://bit.ly/31uJ9g1** </br>
-<p align="center"><b> **What's new in #vRealize Operations Manager 8.1! https://bit.ly/3gd1GBE** </br>
+<p align="center"><b> **What's new in #vRealize Operations Manager 8.1! https://bit.ly/3gd1GBE** </br> </br>
+<p align="center"><b> **Deployment Guide #vRealize Operations Manager 8.1! https://bit.ly/3eNbRwG** </br> </br>
   
  ** **Attention if you are deploying a vROps 8.0 fresh install** **
  
  / is full on vRealize Operations Manager 8.0 https://kb.vmware.com/s/article/76154</br></br>
  
-  **Some tips to see before upgrade your version**
+  **Some tips to see before upgrade your version to 8.0**
    
    Backup vROps virtual appliance </br>
    
