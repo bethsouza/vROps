@@ -9,7 +9,8 @@
 Welcome! This is my first experience with this type of project. Therefore, I count on your contribution, making this repository useful for the community. If there is any mistake regarding the information, please feel free to submit corrections or new contributions.
 [Here's how to contribute](https://github.com/bethsouza/vROps/blob/master/contribute.md)
 
-<p align="center"><b> **Announcing #vRealize Operations Manager 8.1! https://t.co/N6XTuj1Jsm?amp=1** </br>
+<p align="center"><b> **Announcing #vRealize Operations Manager 8.1! https://bit.ly/31uJ9g1** </br>
+<p align="center"><b> **What's new in #vRealize Operations Manager 8.1! https://bit.ly/3gd1GBE** </br>
   
  ** **Attention if you are deploying a vROps 8.0 fresh install** **
  
@@ -40,12 +41,12 @@ https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/>
 **VROps versions and Release Notes** <br/> <br/>
 https://www.vmware.com/products/vrealize-operations.html (English) <br/>
 https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/> <br/>
-[vROps Release Notes 6.7](https://docs.vmware.com/en/vRealize-Operations-Manager/6.7/rn/vRealize-Operations-Manager-67.html) <br/>
-[vROps Release Notes 7.0](https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/rn/vRealize-Operations-Manager-70.html) <br/>
-[vROps Release Notes 7.5](https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/rn/vRealize-Operations-Manager-75.html) <br/>
-[vROps Release Notes 8.0](https://docs.vmware.com/en/vRealize-Operations-Manager/8.0/rn/vRealize-Operations-Manager-80.html) <br/>
 
-[vROps Release Notes 8.1] (https://docs.vmware.com/en/vRealize-Operations-Manager/8.0.1/rn/vRealize-Operations-Manager-801.html)
+[vROps Release Notes 8.1](https://docs.vmware.com/en/vRealize-Operations-Manager/8.1/rn/vRealize-Operations-Manager-81.html) <br/>
+[vROps Release Notes 8.0](https://docs.vmware.com/en/vRealize-Operations-Manager/8.0/rn/vRealize-Operations-Manager-80.html) <br/>
+[vROps Release Notes 7.5](https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/rn/vRealize-Operations-Manager-75.html) <br/>
+[vROps Release Notes 7.0](https://docs.vmware.com/en/vRealize-Operations-Manager/7.0/rn/vRealize-Operations-Manager-70.html) <br/>
+[vROps Release Notes 6.7](https://docs.vmware.com/en/vRealize-Operations-Manager/6.7/rn/vRealize-Operations-Manager-67.html) <br/>
 
 **Brazilian Telegram group**  https://t.me/vCloudMgmt<br/> <br/>
 
@@ -223,7 +224,7 @@ vMusketeers [@vMusketeers](https://twitter.com/vMusketeers)<br/>
 
 | Session       | Name         						                                      			      | Stream		  			                                            			   | Download	                                        			                       | 
 | ------------- | ------------------------------------------------------------------------  | -----------------------------------------------------------------------| ----------------------------------------------------------------------------- |
-| HBO1180BU	    |The Big Ticket: What’s New in vRealize Operations	    		            	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/28395)	   | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1180BU.pdf)|
+| HBO1180BU	    |The Big Ticket: What’s New in vRealize Operations	    		          	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/28395)	   | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1180BU.pdf)|
 | HBO3090BU	    |Game of Clouds E3: The Magic and the Reality of Self Driving Operations	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/27682Game) | No PDF Available								    |
 | BCA1181BU	    |Monitor All the Things: Application Monitoring with vRealize Operations	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/28015)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/BCA1181BU.pdf)|
 | HBO1094BU   	|Best Practices for vRealize Operations Workload Optimization		        	  | [Stream](https://videos.vmworld.com/global/2019/videoplayer/27374)     | [PDF](https://cms.vmworldonline.com/event_data/12/session_notes/HBO1094BU.pdf)|
