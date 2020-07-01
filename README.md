@@ -12,6 +12,10 @@ Welcome! This is my first experience with this type of project. Therefore, I cou
 <p align="center"><b> **Announcing vRealize Operations Manager 8.1! https://bit.ly/31uJ9g1** </br>
 <p align="center"><b> **What's new in vRealize Operations Manager 8.1! https://bit.ly/3gd1GBE** </br>
 <p align="center"><b> **Deployment Guide vRealize Operations Manager 8.1! https://bit.ly/3eNbRwG** </br>
+
+** **And yes!! We are on the cloud too! 
+"A unified operations platform to optimize, plan and scale VMware Cloud and multi-clouds.** https://cloud.vmware.com/vrealize-operations-cloud</br>
+vRealize Operations Cloud Solution Overview  https://bit.ly/31B7kd4
   
  ** **Attention if you are deploying a vROps 8.0 fresh install** **
  
@@ -35,8 +39,7 @@ https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/>
 
 **VROps versions and Release Notes** <br/> <br/>
 https://www.vmware.com/products/vrealize-operations.html (English) <br/>
-https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/> <br/>
-
+https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/>
 [vROps Release Notes 8.1](https://docs.vmware.com/en/vRealize-Operations-Manager/8.1/rn/vRealize-Operations-Manager-81.html) <br/>
 [vROps Release Notes 8.0](https://docs.vmware.com/en/vRealize-Operations-Manager/8.0/rn/vRealize-Operations-Manager-80.html) <br/>
 [vROps Release Notes 7.5](https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/rn/vRealize-Operations-Manager-75.html) <br/>
@@ -78,11 +81,15 @@ Samuel Nunes http://www.eucbrasil.com/ <br/>
 Scott Norris https://www.virtualiseme.net.au/ <br/>
 Steve Tilkens http://www.tilkens.com/ <br/>
 Sunny Dua http://vxpresss.blogspot.com/ <br/>
+And we RE
 Suraj Rawat https://vmarkade.wordpress.com/vrealize-operations-manager/<br/> 
 Thom Greene https://www.thomgreene.com <br/>
 Vineeth A C https://vineethac.blogspot.com/2019/09/vrealize-operations-manager-75-blog.html?m=1<br/> 
 vMan https://vman.ch/category/vmware/vrops/<br/> 
 Wesley Martins https://www.itproland.com.br/vmware-instalando-o-vrealize-operations-manager-7-0/ (Portuguese)<br/>
+
+**From Linkedin**<br/>
+https://www.linkedin.com/showcase/vmware-cloud-management/<br/>
 
 **From GitHub**<br/>
 Brandon Gordon https://github.com/notoriousbdg<br/>
