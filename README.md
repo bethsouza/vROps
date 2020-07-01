@@ -16,12 +16,9 @@ Welcome! This is my first experience with this type of project. Therefore, I cou
  ** **Attention if you are deploying a vROps 8.0 fresh install** **
  
  / is full on vRealize Operations Manager 8.0 https://kb.vmware.com/s/article/76154</br></br>
- 
-  **Some tips to see before upgrade your version to 8.0**
-   
+   **Some tips to see before upgrade your version to 8.0** </br>
    Backup vROps virtual appliance </br>
-   
-   Run the Pre-Upgrade Assessment Tool for 8.0 before you do anything else https://vrealize.vmware.com/t/vrealize-operations/additional-learning-1/vrealize-operations-upgrade-assessment-tool/ </br>   
+      Run the Pre-Upgrade Assessment Tool for 8.0 before you do anything else https://vrealize.vmware.com/t/vrealize-operations/additional-learning-1/vrealize-operations-upgrade-assessment-tool/ </br>   
    Upgrade to vRealize Operations Manager 8.0 fails due to low space on /dev/sda (75298) https://kb.vmware.com/s/article/75298 </br>   
    Potential issue about certificate https://kb.vmware.com/s/article/71018 </br>   
    Issue about expired password https://kb.vmware.com/s/article/75195 </br>
