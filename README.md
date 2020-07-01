@@ -11,7 +11,7 @@ Welcome! This is my first experience with this type of project. Therefore, I cou
 
 <p align="center"><b> **Announcing vRealize Operations Manager 8.1! https://bit.ly/31uJ9g1** </br>
 <p align="center"><b> **What's new in vRealize Operations Manager 8.1! https://bit.ly/3gd1GBE** </br>
-<p align="center"><b> **Deployment Guide vRealize Operations Manager 8.1! https://bit.ly/3eNbRwG** </br> </br>
+<p align="center"><b> **Deployment Guide vRealize Operations Manager 8.1! https://bit.ly/3eNbRwG** </br>
   
  ** **Attention if you are deploying a vROps 8.0 fresh install** **
  
@@ -21,12 +21,9 @@ Welcome! This is my first experience with this type of project. Therefore, I cou
    
    Backup vROps virtual appliance </br>
    
-   Run the Pre-Upgrade Assessment Tool for 8.0 before you do anything else https://vrealize.vmware.com/t/vrealize-operations/additional-learning-1/vrealize-operations-upgrade-assessment-tool/ </br>
-   
-   Upgrade to vRealize Operations Manager 8.0 fails due to low space on /dev/sda (75298) https://kb.vmware.com/s/article/75298 </br>
-   
-   Potential issue about certificate https://kb.vmware.com/s/article/71018 </br>
-   
+   Run the Pre-Upgrade Assessment Tool for 8.0 before you do anything else https://vrealize.vmware.com/t/vrealize-operations/additional-learning-1/vrealize-operations-upgrade-assessment-tool/ </br>   
+   Upgrade to vRealize Operations Manager 8.0 fails due to low space on /dev/sda (75298) https://kb.vmware.com/s/article/75298 </br>   
+   Potential issue about certificate https://kb.vmware.com/s/article/71018 </br>   
    Issue about expired password https://kb.vmware.com/s/article/75195 </br>
    
    Don´t forget to upgrade the Application Remote Collector, if you use it https://docs.vmware.com/en/vRealize-Operations-Manager/8.0/com.vmware.vcom.config.doc/GUID-AF30EB3B-895F-466F-8AEC-AB44E7E42875.html </br> </br>
