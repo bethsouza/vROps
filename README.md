@@ -16,6 +16,8 @@ Welcome! This is my first experience with this type of project. Therefore, I cou
 ** **And yes!! We are on the cloud too! 
 "A unified operations platform to optimize, plan and scale VMware Cloud and multi-clouds.** https://cloud.vmware.com/vrealize-operations-cloud</br>
 vRealize Operations Cloud Solution Overview  https://bit.ly/31B7kd4
+
+** **Monitoring Kubernetes** ** http://vxpresss.blogspot.com/2020/07/everything-kubernetes-with-vrealize.html
   
  ** **Attention if you are deploying a vROps 8.0 fresh install** **
  
