@@ -109,6 +109,7 @@ https://bluemedora.com/products/vmware-vrealize-true-visibility/
 
 **Youtube Channels**
 
+Anderson Duboc - PowerBlocks Session (Portuguese) https://bit.ly/3g9wcgn<br/>
 Virtualization24x7  https://www.youtube.com/channel/UCcrKN4gu9ZwXUlHD5Ly8BgA<br/>
 VMware Tech Pubs https://www.youtube.com/watch?v=DS_dCH3cq7I&list=PLmp0id7yKiEclPbge6XMVZnQtndtiuMlB<br/>
 VMSpot https://www.youtube.com/channel/UCcV8KDm4lqXgZPbaNFqu_PQ<br/>
