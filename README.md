@@ -16,16 +16,10 @@ Welcome! This is my first experience with this type of project. Therefore, I cou
 
 ** **Monitoring Kubernetes** ** http://vxpresss.blogspot.com/2020/07/everything-kubernetes-with-vrealize.html
   
- ** **Attention if you are deploying a vROps 8.0 fresh install** **
- 
- / is full on vRealize Operations Manager 8.0 https://kb.vmware.com/s/article/76154</br></br>
-   **Some tips to see before upgrade your version to 8.0** </br>
+**Some tips before upgrade your version ** </br>
    Backup vROps virtual appliance </br>
-      Run the Pre-Upgrade Assessment Tool for 8.0 before you do anything else https://vrealize.vmware.com/t/vrealize-operations/additional-learning-1/vrealize-operations-upgrade-assessment-tool/ </br>   
-   Upgrade to vRealize Operations Manager 8.0 fails due to low space on /dev/sda (75298) https://kb.vmware.com/s/article/75298 </br>   
-   Potential issue about certificate https://kb.vmware.com/s/article/71018 </br>   
-   Issue about expired password https://kb.vmware.com/s/article/75195 </br>
-   
+      Run the Pre-Upgrade Assessment Tool before you do anything else https://vrealize.vmware.com/t/vrealize-operations/additional-learning-1/vrealize-operations-upgrade-assessment-tool/ </br>   
+      
    Don´t forget to upgrade the Application Remote Collector, if you use it https://docs.vmware.com/en/vRealize-Operations-Manager/8.0/com.vmware.vcom.config.doc/GUID-AF30EB3B-895F-466F-8AEC-AB44E7E42875.html </br> </br>
 vROps Deprecated Metrics and Replacement Recommendations http://partnerweb.vmware.com/programs/vrops/DeprecatedContent.html</br>
 
