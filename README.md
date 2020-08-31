@@ -10,7 +10,7 @@ Welcome! This is my first experience with this type of project. Therefore, I cou
 [Here's how to contribute](https://github.com/bethsouza/vROps/blob/master/contribute.md)
 
 <p align="center"><b> **Announcing vRealize Operations Manager 8.2! https://bit.ly/34uYyP8** </br>
-<p align="center"><b> **Announcing vRealize Operations Cloud - New Release!** </br>
+<p align="center"><b> **Announcing vRealize Operations Cloud - New Release! https://cloud.vmware.com/vrealize-operations-cloud** </br>
 
 **vRealize Operations Cloud Solution Overview  https://bit.ly/31B7kd4
 
