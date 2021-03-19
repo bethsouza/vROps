@@ -33,6 +33,7 @@ https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/>
 **VROps versions and Release Notes** <br/> <br/>
 https://www.vmware.com/products/vrealize-operations.html (English) <br/>
 https://www.vmware.com/br/products/vrealize-operations.html (Portuguese) <br/>
+[vROps Release Notes 8.2](https://docs.vmware.com/en/vRealize-Operations-Manager/8.2/rn/vRealize-Operations-Manager-82.html) <br/>
 [vROps Release Notes 8.1](https://docs.vmware.com/en/vRealize-Operations-Manager/8.1/rn/vRealize-Operations-Manager-81.html) <br/>
 [vROps Release Notes 8.0](https://docs.vmware.com/en/vRealize-Operations-Manager/8.0/rn/vRealize-Operations-Manager-80.html) <br/>
 [vROps Release Notes 7.5](https://docs.vmware.com/en/vRealize-Operations-Manager/7.5/rn/vRealize-Operations-Manager-75.html) <br/>
