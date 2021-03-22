@@ -57,6 +57,7 @@ https://communities.vmware.com/community/vmtn/vrealize/vrops <br/> <br/>
 **Documentation** <br/>
 https://docs.vmware.com/en/vRealize-Operations-Manager/index.html <br/> <br/>
 **Blogs** <br/>
+
 Blog VMware https://blogs.vmware.com/management/ <br/>
 Cameron Fore http://cameronfore.com/<br/>
 Christopher Mitchell http://www.caenotech.co.uk/category/vmware/vrops/ <br/>
