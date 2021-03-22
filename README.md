@@ -145,7 +145,7 @@ Thom Greene [@tbgree00](https://twitter.com/tbgree00)<br/>
 Vineeth A C [@Vineethac](https://twitter.com/Vineethac)<br/>
 vMusketeers [@vMusketeers](https://twitter.com/vMusketeers)<br/>
 
-**vExpert Cloud Management Directory 2019** https://vexpert.vmware.com/directory/cloudmgmt<br/>
+**vExpert Cloud Management Directory 2020** https://vexpert.vmware.com/directory/cloudmgmt<br/>
 
 | Name	                                 |  Profile         		                        	  |
 | -------------------------------------- | ---------------------------------------------------------------| 
