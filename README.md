@@ -147,7 +147,7 @@ Thom Greene [@tbgree00](https://twitter.com/tbgree00)<br/>
 Vineeth A C [@Vineethac](https://twitter.com/Vineethac)<br/>
 vMusketeers [@vMusketeers](https://twitter.com/vMusketeers)<br/>
 
-**vExpert Cloud Management Directory 2020** https://vexpert.vmware.com/directory/cloudmgmt<br/>
+**vExpert Cloud Management Directory 2021** https://vexpert.vmware.com/directory/cloudmgmt<br/>
 
 "*vExpert Cloud Management program is to build a community of champions that brings together the world’s knowledge of VMware Cloud Management solutions, in a globally accessible form, available across multiple languages."*
 Reference: (https://blogs.vmware.com/management/2020/03/announcing-the-2020-vexpert-cloud-management-program.html)
